@@ -22,7 +22,7 @@ poetry config virtualenvs.in-project true
 
 3. Instalar dependencias:
 ```sh
-poetry install
+poetry install --no-root
 ```
 
 4. Configurar variables de entorno:
