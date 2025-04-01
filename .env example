@@ -3,3 +3,4 @@
 export POETRY_VIRTUALENVS_IN_PROJECT = TRUE,
 export DEEPSEEK_API_KEY= 'key'
 export DEEPSEEK_API_URL= 'url'
+export LLM_MODEL= 'deepseek/deepseek-r1-distill-qwen-32b:free'

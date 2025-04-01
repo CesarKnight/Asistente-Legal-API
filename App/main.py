@@ -9,10 +9,11 @@ def generar_nombre_mascota():
     # Cargar la clave de API de OpenAI desde las variables de entorno
     openai_api_key = os.getenv("DEEPSEEK_API_KEY")
     openai_base_url = os.getenv("DEEPSEEK_API_URL")
-
+    openai_model = os.getenv("LLM_MODEL")
+    
     # Crear una instancia del modelo ChatOpenAI
     llm = ChatOpenAI(
-        model_name="deepseek/deepseek-r1-distill-qwen-32b:free", 
+        model_name= openai_model,
         temperature=0.5, 
         api_key=openai_api_key,
         base_url=openai_base_url,
