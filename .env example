@@ -1,0 +1,5 @@
+# Esta configuracion de poetry es para que se cree el entorno virtual dentro del proyecto
+# y no en la carpeta de usuario
+export POETRY_VIRTUALENVS_IN_PROJECT = TRUE,
+export DEEPSEEK_API_KEY= 'key'
+export DEEPSEEK_API_URL= 'url'
