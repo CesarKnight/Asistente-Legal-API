@@ -28,7 +28,7 @@ def inicializar_llm() -> ChatOpenAI:
 
 def crear_vector_db() -> FAISS:
     
-    loader = TextLoader("E:/Code/Python/Asistente-Legal-API/App/leyes/reglamento_codigo_de_transito.txt" , encoding='utf-8')
+    loader = TextLoader("E:/Code/Python/Asistente-Legal-API/App/leyes/Decreto supremo N 29293.txt" , encoding='utf-8')
     leyes = loader.load()
     
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
