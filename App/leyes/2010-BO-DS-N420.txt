@@ -249,15 +249,33 @@ Artículo 19°.- (Infracciones y sanciones)
 
      Infracciones / sujetos y sanciones
 
+    Conducción en estado de embriaguez que provoque accidente (según normativa vigente):
 
-     Infracción                                                       Operador                                                       Propietario del Bus                                                     Conductor
-     Conducción en estado de embriaguez, establecida según normativa Primera vez, suspención de operaciones por treinta (30) días Primera vez, suspención de las operaciones de su vehículo por un (1)  Revocación definitiva de su Licencia de
-     vigente, que provoque accidente                                   calendario.                                                    año.                                                                   conducir.
-                                                                       Segunda vez, revocatoria de las tarjetas de operación.        Segunda vez, suspención definitiva de las operaciones de su vehículo.
-                                                                       Primera vez, suspención de operaciones por un (1) día.       Primera vez, suspención de operaciones de su vehículo por treinta (30)
-     Conducción en estado de embriaguez, establecida según normativa Segunda vez, suspención de operaciones por diez (10) días.   días calendario.                                                       Revocación definitiva de su Licencia de
-     vigente.                                                          Tercera vez, suspención de operaciones por treinta (30) días Segunda vez, suspención de operaciones por un (1) año. Tercera vez,   conducir.
-                                                                       calendario.                                                    suspención definitiva de operaciones.
+    - **Operador:**
+      - Primera vez: Suspensión de operaciones por 30 días calendario.
+      - Segunda vez: Revocatoria de las tarjetas de operación.
+
+    - **Propietario del Bus:**
+      - Primera vez: Suspensión de las operaciones de su vehículo por 1 año.
+      - Segunda vez: Suspensión definitiva de las operaciones de su vehículo.
+
+    - **Conductor:**
+      - Primera vez: Revocación definitiva de su licencia de conducir.
+
+    Conducción en estado de embriaguez (sin provocar accidente, según normativa vigente):
+
+    - **Operador:**
+      - Primera vez: Suspensión de operaciones por 1 día.
+      - Segunda vez: Suspensión de operaciones por 10 días.
+      - Tercera vez: Suspensión de operaciones por 30 días calendario.
+
+    - **Propietario del Bus:**
+      - Primera vez: Suspensión de operaciones de su vehículo por 30 días calendario.
+      - Segunda vez: Suspensión de operaciones por 1 año.
+      - Tercera vez: Suspensión definitiva de operaciones.
+
+    - **Conductor:**
+      - Primera vez: Revocación definitiva de su licencia de conducir.
 
  ii. Se consideran también infracciones las siguientes:
      - Incumplir los horarios programados de salida de terminal.

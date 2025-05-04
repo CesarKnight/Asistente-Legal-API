@@ -12,7 +12,6 @@ LICENCIAS PARA CONDUCIR
 
 Título I
 Capítulo primero disposición general
-
 Artículo 1°.- (Objeto)La presente Ley tiene por objeto la creación del Servicio
 General de Identificación Personal y del Servicio General de Licencias para
 Conducir, determinando su naturaleza jurídica, principios, atribuciones y
@@ -20,7 +19,6 @@ estructura organizacional.
 
 Capítulo Segundo
 Servicio general de identificación personal - SEGIP
-
 Artículo 2°.- (Creación y naturaleza jurídica)
 
   i. Se crea el Servicio General de Identificación Personal - SEGIP, como
@@ -309,8 +307,6 @@ otorgamiento, estructura y tiempo de vigencia de la Cédula de Identidad - C.
 I., serán establecidos mediante Decreto Supremo Reglamentario.
 
 Título II
-
-
 Capítulo Primero
 Servicio General de Licencias para Conducir - SEGELIC
 

@@ -5,7 +5,6 @@ CODIGO DE TRÁNSITO
 Título I
 Disposiciones preliminares
 
-
 Capítulo I
 Aplicación y objeto
 
@@ -160,7 +159,6 @@ Código, circularán con arreglo a las siguientes disposiciones especiales:
      equilibrio o impidan que el conductor mantenga ambas manos en los puños
      del manubrio.
   g. No circularán por las aceras ni paseos públicos destinados a los peatones.
-
 
 Capítulo IV
 De las inspecciones
@@ -477,8 +475,6 @@ por los daños y perjuicios que ocasione.
 
 Título IV
 De los servicios públicos
-
-
 Capítulo UNICO
 De los requisitos
 
@@ -493,8 +489,6 @@ vehículos de servicio público se determinará por el Reglamento de este Códig
 
 Título V
 De los documentos y registros
-
-
 Capítulo I
 De la licencia
 
@@ -517,7 +511,6 @@ correspondientes.
 
 Capítulo II
 De las autorizaciones provisionales y permisos oficiales
-
 Artículo 113°.- (Autorizacion)La autorización provisional es un documento que
 faculta la conducción temporal de vehículos y es otorgada por la Policía del
 Tránsito.
@@ -539,7 +532,6 @@ Ministerio de Relaciones Exteriores de Bolivia.
 
 Capítulo III
 De las licencias internacionales para conducir
-
 Artículo 118°.- (Permiso internacional)El permiso Internacional para conducir
 es el documento que autoriza la conducción de vehículos en territorio
 extranjero.
@@ -553,7 +545,6 @@ en el territorio nacional como chófer profesional.
 
 Capítulo IV
 Del carnet de propiedad
-
 Artículo 121°.- (Carnet)El carnet de propiedad es el documento que acredita el
 derecho de propiedad sobre un vehículo y tiene valor probatorio de instrumento
 público. Su obtención es obligatoria para todo propietario de vehículo.
@@ -563,7 +554,6 @@ vehículo.
 
 Capítulo V
 De las placas
-
 Artículo 123°.- (Placas)La placa es una matrícula de identificación que debe
 tener obligatoriamente todo Vehículo. El número de la placa debe coincidir con
 el del carnet de propiedad.
@@ -581,7 +571,6 @@ la Renta.
 
 Capítulo VI
 De la papeleta de inspección y control
-
 Artículo 129°.- (Papeleta de inspeccion)La papeleta de inspección es un
 documento otorgado por la Policía del Tránsito que acredita haber cumplido él
 requisito establecido por el artículo 27 de este Código.
@@ -595,7 +584,6 @@ funcionamiento de estos establecimientos.
 
 Capítulo VII
 De la hoja de ruta
-
 Artículo 132°.- (Hoja de ruta)La hoja de ruta es el documento otorgado por la
 Policía del Tránsito por el que autoriza y controla la circulación de vehículos
 fuera del radio urbano.
@@ -604,7 +592,6 @@ sin la correspondiente hoja de ruta.
 
 Capítulo VIII
 De los registros
-
 Artículo 134°.- (Registro)El registro es la inscripción oficial y obligatoria
 de los datos acerca de las personas y de los vehículos con fines de
 identificación, responsabilidad y estadísticas.
@@ -627,10 +614,8 @@ consignará los siguientes datos:
   c. Las órdenes de las autoridades judiciales y competentes.
   d. Los accidentes.
 
-
 Capítulo lX
 De las transferencias de vehículos
-
 Artículo 137°.- (Transferencias)La transferencia de un vehículo por compra-
 venta o cualquier otro título traslativo de dominio, sólo podrá efectuarse
 mediante instrumento público, previo pago de los impuestos fiscales y en vista
@@ -642,15 +627,12 @@ del Ministro de Finanzas.
 
 Título VI
 De las faltas y sanciones
-
-
 Capítulo I
 De las infracciones
 
 Artículo 139°.- (Infraccion)Infracción llamada también transgresión o
 contravención, es el quebrantamiento de una o más reglas de tránsito.
 Artículo 140°.- (De primer grado)Son infracciones de primer grado:
-
   1. Fuga y falta de asistencia a la víctima en caso de accidente así como la
      agresión o faltamiento a la autoridad del Tránsito por parte de los
      conductores, usuarios o peatones.
@@ -681,7 +663,6 @@ Artículo 140°.- (De primer grado)Son infracciones de primer grado:
      tercero.
 
 Artículo 141°.- (De segundo grado)Son infracciones de segundo grado:
-
   1. Viajar sin equipo, señales de emergencia e implementos de auxilio.
   2. Asignar al vehículo uso distinto al que se halla destinado.
   3. No elevar a Tránsito los informes y partes a que están obligados los
@@ -718,7 +699,6 @@ Artículo 141°.- (De segundo grado)Son infracciones de segundo grado:
  22. Desacato a la autoridad por parte de los conductores, usuarios o peatones.
 
 Artículo 142°.- (De tercer grado)Son infracciones de tercer grado:
-
   1. Negarse injustificadamente a llevar pasajeros.
   2. No ceder el paso a los vehículos indicados en los artículos 23 y 24 de
      este Código.
@@ -748,7 +728,6 @@ Artículo 142°.- (De tercer grado)Son infracciones de tercer grado:
 
 Capítulo II
 De las sanciones
-
 Artículo 143°.- (Delitos)El juzgamiento y sanción de los delitos de tránsito,
 son de competencia de la justicia ordinaria.
 Artículo 144°.- (Infracciones)Las infracciones, de competencia de la Policía
@@ -771,7 +750,6 @@ sujetas a la sanción de arresto, son compensables pecuniariamente.
 
 Capítulo III
 De los accidentes de tránsito
-
 Artículo 152°.- (Accidentes)Accidentes son sucesos de los que resultan daños a
 las personas o las cosas. Pueden ser dolosos, culposos o fortuitos.
 Artículo 153°.- (Accidentes dolosos)Son accidentes dolosos cuando el resultado
@@ -801,7 +779,6 @@ sufrido un accidente.
 
 Capítulo IV
 De las responsabilidades
-
 Artículo 160°.- (Responsabilidad)La determinación de la responsabilidad tiene
 por objeto el resarcimiento de los daños civiles y el cumplimiento de la
 sanción conforme a ley.
@@ -839,7 +816,6 @@ sobre ellas según el grado de culpabilidad.
 
 Capítulo V
 Del embargo y del secuestro
-
 Artículo 167°.- (Embargo y secuestro)El embargo o el secuestro de vehículos,
 repuestos o accesorios, es potestad de las autoridades llamadas por ley.
 Artículo 168°.- (Casos en los que procede el secuestro)El secuestro podrá
@@ -866,7 +842,6 @@ los daños y perjuicios ocasionados.
 
 Capítulo VI
 De la jurisdicción
-
 Artículo 173°.- (Jurisdiccion)La Policía de Tránsito dirige, controla y regula
 la locomoción en todo el territorio de la República.
 Artículo 174°.- (Control)Control la organización y funcionamiento de todos los
@@ -891,7 +866,6 @@ cuando se trata de infracciones contempladas en este Código o su Reglamento.
 
 Capítulo VII
 De los juzgados del tránsito
-
 Artículo 181°.- (Juzgados de tránsito)Los Juzgados del Tránsito funcionarán en
 cada Jefatura Departamento de acuerdo a las necesidades del servicio, con la
 facultad de conocer, tramitar, resolver y sancionar en su caso, dentro de los
@@ -906,7 +880,6 @@ contravenciones ante el Juzgado del Tránsito.
 
 Capítulo VIII
 De la prescripción
-
 Artículo 184°.- (Termino de la denuncia)La denuncia, tratándose de infracciones
 de tránsito, prescribe a los treinta días de ocurrido el hecho.
 Artículo 185°.- (Termino para la sancion)La potestad de imponer la sanción por
@@ -919,8 +892,6 @@ las normas del Código y Leyes Penales.
 
 Título VII
 Disposiciones finales
-
-
 Capítulo I
 De los privilegios
 
@@ -942,7 +913,6 @@ país.
 
 Capítulo II
 Disposiciones especiales
-
 Artículo 193°.- (Escuelas e institutos tecnico-profesionales)Podrán
 establecerse en el país escuelas de enseñanza y aprendizaje o institutos de
 formación técnico-profesional para la conducción de vehículos, a cargo de
@@ -974,7 +944,6 @@ abrogadas todas las leyes y disposiciones contrarias.
 
 Capítulo III
 Disposiciones transitorias
-
 Artículo 200°.- (Transitorio)El presente Código Nacional del Tránsito regirá a
 partir del día 2 de abril de 1973.
 -------------------------------------------------------------------------------
