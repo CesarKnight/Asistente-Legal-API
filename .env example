@@ -1,5 +1,8 @@
-# Esta configuracion de poetry es para que se cree el entorno virtual dentro del proyecto
-# y no en la carpeta de usuario
-export POETRY_VIRTUALENVS_IN_PROJECT = TRUE,
-LLM_MODEL= 'gpt-o4-mini'
-OPENAI_API_KEY= "KEY"
+LANGSMITH_TRACING=true
+LANGSMITH_ENDPOINT="https://api.smith.langchain.com"
+LANGSMITH_API_KEY="key"
+LANGSMITH_PROJECT="project name"
+
+LLM_MODEL= "gpt-4o-mini" # modelo de LLM mas barato y bueno
+OPENAI_API_KEY="tu propia api key"
+EMBEDDINGS_MODEL="text-embedding-3-large" #la base de datos leyes OPENAI txt-3 usa este modelo
