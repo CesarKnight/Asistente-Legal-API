@@ -594,29 +594,27 @@ De la velocidad
 Artículo 112°.- (Velocidades maximas y minimas)Por regla general ningún
 vehículo circulará a velocidades superiores o inferiores a las establecidas por
 la Policía del Tránsito.
+
 Artículo 113°.- (Velocidades maximas en radio urbano)Las velocidades máximas
 dentro del radio urbano de las ciudades y poblaciones son:
-
-  a. 10 kms. por hora en las zonas escolares y militares, considerándose a este
-     efecto como tal la parte de la vía pública comprendida entre los 50 metros
-     antes y después del lugar donde se encuentra ubicado el acceso a dichos
-     establecimientos.
-  b. 20 kms. por hora en las calles donde la circulación de peatones y
-     vehículos es intensa.
-  c. kms. por hora en las avenidas y vías donde las condiciones de seguridad
-     así lo permitan.
-  d. En las bocacalles, lugares de aglomeración, de personas o vehículos y en
-     general en los sitios donde haya peligro, los conductores están obligados
-     a reducir la velocidad al paso de un peatón o en su caso, a detener el
-     vehículo.
+a. 10 kms. por hora en las zonas escolares y militares, considerándose a este
+    efecto como tal la parte de la vía pública comprendida entre los 50 metros
+    antes y después del lugar donde se encuentra ubicado el acceso a dichos
+    establecimientos.
+b. 20 kms. por hora en las calles donde la circulación de peatones y
+    vehículos es intensa.
+c. kms. por hora en las avenidas y vías donde las condiciones de seguridad
+    así lo permitan.
+d. En las bocacalles, lugares de aglomeración, de personas o vehículos y en
+    general en los sitios donde haya peligro, los conductores están obligados
+    a reducir la velocidad al paso de un peatón o en su caso, a detener el
+    vehículo.
 
 Artículo 114°.- (Velocidades maximas en caminos y carreteras)Las velocidades
 máximas en los caminos y carreteras situadas fuera de radio urbano de las
 ciudades y poblaciones son:
-
-  a. En las carreteras asfaltadas 80 kms. por hora.
-  b. En los caminos y carreteras ripiadas o de tierra 70 kms. por hora.
-
+a. En las carreteras asfaltadas 80 kms. por hora.
+b. En los caminos y carreteras ripiadas o de tierra 70 kms. por hora.
 Artículo 115°.- (Obligacion de reducir la velocidad)Es obligación de todo
 conductor conducir su vehículo a una velocidad reducida cuando se acerque y
 cruce una intersección de calles o carreteras; cuando se aproxime y vaya por
@@ -684,45 +682,39 @@ respectiva a 30 metros antes y después del vehículo y visible a 100 metros de
 distancia.
 Artículo 127°.- (Prohibiciones)Es prohibido estacionar, parar o detener
 vehículos:
-
-  1. En los lugares prohibidos por la autoridad mediante las señales oficiales.
-  2. En las paradas fijadas para los vehículos de servicio público (taxis,
-     colectivos, etc.)
-  3. En las aceras, pasos de peatones o lugares destinados exclusivamente al
-     cruce de los mismos.
-  4. Delante de los talleres mecánicos o garajes de tal modo que obstruyan la
-     entrada o salida de los demás vehículos.
-  5. En doble fila respecto a otro vehículo detenido o estacionado en la
-     calzada.
-  6. Al costado o al lado opuesto de cualquier obstrucción de la circulación,
-     excavación o trabajos en una calzada.
-  7. En las esquinas, cruces de caminos, puentes, alcantarillas, túneles, en
-     las curvas, en la cumbre de una cuesta, con excepción de las detenciones
-     obligadas por la circulación.
-
+1. En los lugares prohibidos por la autoridad mediante las señales oficiales.
+2. En las paradas fijadas para los vehículos de servicio público (taxis,
+    colectivos, etc.)
+3. En las aceras, pasos de peatones o lugares destinados exclusivamente al
+    cruce de los mismos.
+4. Delante de los talleres mecánicos o garajes de tal modo que obstruyan la
+    entrada o salida de los demás vehículos.
+5. En doble fila respecto a otro vehículo detenido o estacionado en la
+    calzada.
+6. Al costado o al lado opuesto de cualquier obstrucción de la circulación,
+    excavación o trabajos en una calzada.
+7. En las esquinas, cruces de caminos, puentes, alcantarillas, túneles, en
+    las curvas, en la cumbre de una cuesta, con excepción de las detenciones
+    obligadas por la circulación.
 Artículo 128°.- (Otras prohibiciones)Es igualmente prohibido estacionar:
-
-  1. A menos de 10 metros de las puertas de ingreso a los establecimientos
-     educacionales, iglesias, hospitales, clínicas y salas de espectáculos,
-     durante las horas de afluencia de público.
-  2. A menos de 20 metros de un cruce ferroviario a nivel.
-  3. A menos de 5 metros de una esquina o intersección de vías.
-  4. Delante de los surtidores de combustibles (gasolina, diesel, etc.) y en un
-     espacio de 15 metros de los mismos, con excepción de los vehículos que se
-     detengan para cargar o descargar combustibles.
-  5. En la entrada y salida de pistas, rampas y playas de estacionamiento de
-     vehículos.
-
+1. A menos de 10 metros de las puertas de ingreso a los establecimientos
+    educacionales, iglesias, hospitales, clínicas y salas de espectáculos,
+    durante las horas de afluencia de público.
+2. A menos de 20 metros de un cruce ferroviario a nivel.
+3. A menos de 5 metros de una esquina o intersección de vías.
+4. Delante de los surtidores de combustibles (gasolina, diesel, etc.) y en un
+    espacio de 15 metros de los mismos, con excepción de los vehículos que se
+    detengan para cargar o descargar combustibles.
+5. En la entrada y salida de pistas, rampas y playas de estacionamiento de
+    vehículos.
 Artículo 129°.- (Estacionamiento en vias de doble ruta)En las vías de doble
 ruta no se permitirá el estacionamiento de vehículos a ambos lados, debiendo
 hacerlo solamente a un costado y en el mismo sentido.
 Artículo 130°.- (Reparacion de vehiculos en vias públicas)Es prohibido efectuar
 trabajos de reparación de vehículos en plena vía pública, salvo casos de fuerza
 mayor. La violación de esta norma constituye infracción.
-
 Capítulo IX
 De la señalizacion
-
 Artículo 131°.- (Señales en las vias públicas)En las vías públicas se colocarán
 señales destinadas a prevenir y establecer orden en la circulación de peatones
 y vehículos. Art. 132.- PROHIBICIONES.- Es prohibido colocar en o sobre las
@@ -758,11 +750,9 @@ adoptado oficialmente por el Código Nacional del Tránsito, este Reglamento y e
 Manual Interamericano de Dispositivos para el Control del Tránsito en calles y
 carreteras.
 Artículo 138°.- (Clasificacion)Las señales clasifican en:
-
-  a. verticales,
-  b. luminosas o sonoras, y
-  c. la de policías.
-
+a. verticales,
+b. luminosas o sonoras, y
+c. la de policías.
 Artículo 139°.- (Señales verticales)Son señales verticales las que están
 constituidas por una placa, sostenida por uno o más pilares, y en la que se
 inscriben leyendas o símbolos destinados a regular la circulación.
@@ -796,7 +786,6 @@ observar y cumplir estrictamente las señales de tránsito.
 
 Capítulo X
 De los pasajeros
-
 Artículo 147°.- (Normas para recoger o dejar pasajeros)Ningún conductor debe
 recoger o dejar pasajeros si no junto a la acera de su derecha o sobre el borde
 de la derecho de la te su vehículo.
@@ -820,7 +809,6 @@ infracción.
 
 Capítulo XI
 De los peatones
-
 Artículo 152°.- (Normas para la circulacion)En las ciudades y poblaciones, los
 peatones circularán por las aceras, conservando su derecha y evitando en lo
 posible el uso de la calzada. En los lugares donde no haya aceras o estas sean
@@ -894,7 +882,6 @@ la circulación de los peatones.
 
 Capítulo XII
 De la carga
-
 Artículo 168°.- (Peso y volumen)Con carácter general el peso de la carga no
 será superior a la capacidad del vehículo según su fabricación y el volumen no
 excederá de las medidas establecidas por este reglamento.
@@ -905,18 +892,15 @@ Artículo 170°.- (Cargas livianas)Se exceptúa de la disposición anterior las
 cargas tales como pasto, paja, lanas, virutas de madera, envases vacíos y otras
 similares en lo que a su gran volumen en relación al poco peso se refiere, las
 que podrán sobresalir:
-
-  a. Un metro como máximo de la parte posterior del vehículo.
-  b. La altura del vehículo cargado no excederá el límite fijado por el
-     artículo 32.
+a. Un metro como máximo de la parte posterior del vehículo.
+b. La altura del vehículo cargado no excederá el límite fijado por el
+    artículo 32.
 
 Artículo 171°.- (Cargas indivisibles)Tratándose de transporte de las cargas
 indivisibles estas podrán sobresalir:
-
-  a. Un metro como máximo de la parte posterior del vehículo.
-  b. La altura y anchura de vehículo cargado no excederán de las medidas
-     señaladas por el artículo 32.
-
+a. Un metro como máximo de la parte posterior del vehículo.
+b. La altura y anchura de vehículo cargado no excederán de las medidas
+    señaladas por el artículo 32.
 Artículo 172°.- (Señales de peligro)Los vehículos a que se refieren los
 artículos 177, 178 y 190 circularán a velocidades prudenciales y por las calles
 de menor tránsito en las ciudades y poblaciones. Llevarán dos banderolas de
@@ -947,25 +931,23 @@ totalmente cubiertos con lona o tapas especiales.
 Artículo 177°.- (Transporte de explosivos o inflamables)Los conductores de
 vehículos que transportan materiales explosivos o inflamables observarán
 estrictamente las siguientes reglas:
-
-  1. Llevarán durante el día dos banderolas de color rojo de 25 x 40
-     centímetros colocadas en lugar visible de la parte delantera y trasera del
-     vehículo. Durante la noche llevarán luz roja indicadora del peligro y que
-     sea visible a una distancia prudencial.
-  2. Colocarán una conexión eléctrica entre la armazón metálica del vehículo y
-     la tierra, consistente en una cadena que arrastre por el suelo sin perder
-     contacto.
-  3. Llevarán dos letreros con las palabras "PELIGRO EXPLOSIVOS", colocados en
-     lugar visible de la parte trasera y delantera del vehículo.
-  4. Si estos materiales se transportan en varios vehículos y estos van en
-     convoy o caravana, guardarán entre si una distancia de por lo menos 50
-     metros.
-  5. Es prohibido al conductor o acompañante, fumar en, sobre o cerca del
-     vehículo cargado con materiales explosivos o inflamables.
-  6. Es estrictamente prohibido llevar pasajeros u otros materiales inflamables
-     en el mismo vehículo. Los vehículos que transporten explosivos no podrán
-     llevar fulminantes.
-
+1. Llevarán durante el día dos banderolas de color rojo de 25 x 40
+    centímetros colocadas en lugar visible de la parte delantera y trasera del
+    vehículo. Durante la noche llevarán luz roja indicadora del peligro y que
+    sea visible a una distancia prudencial.
+2. Colocarán una conexión eléctrica entre la armazón metálica del vehículo y
+    la tierra, consistente en una cadena que arrastre por el suelo sin perder
+    contacto.
+3. Llevarán dos letreros con las palabras "PELIGRO EXPLOSIVOS", colocados en
+    lugar visible de la parte trasera y delantera del vehículo.
+4. Si estos materiales se transportan en varios vehículos y estos van en
+    convoy o caravana, guardarán entre si una distancia de por lo menos 50
+    metros.
+5. Es prohibido al conductor o acompañante, fumar en, sobre o cerca del
+    vehículo cargado con materiales explosivos o inflamables.
+6. Es estrictamente prohibido llevar pasajeros u otros materiales inflamables
+    en el mismo vehículo. Los vehículos que transporten explosivos no podrán
+    llevar fulminantes.
 Artículo 178°.- (Precauciones)Los vehículos destinados al transporte de
 materiales explosivos o inflamables, circularán a velocidades prudenciales, no
 estacionarán en los lugares poblados salvo casos de fuerza mayor y en todo
@@ -1016,14 +998,10 @@ aplicables a los vehículos con semirremolques o remolques.
 Artículo 189°.- (Transporte mixto)El transporte mixto de pasajeros y carga está
 prohibido, cuando excepcionalmente sea permitido, se acondicionará de tal forma
 a los pasajeros y la carga, para que el transporte no constituye peligro.
-
 Título III
 De los conductores y otras personas
-
-
 Capítulo I
 Disposiciones generales
-
 Artículo 190°.- (Brevet o licencia )Está prohibido conducir vehículos
 motorizados sin el respectivo brevet o licencia o estando este documento caduco
 o cancelado. Es igualmente prohibido ceder el brevet o la licencia a terceras
@@ -1047,34 +1025,31 @@ al Ministerio Público.
 
 Capítulo II
 De la clasificación y requisitos para ser conductor
-
 Artículo 195°.- (Clasificacion)Teniendo en cuenta la clase de vehículo que
 conducen los conductores se clasifican en ciclistas, motociclistas, conductores
 particulares, choferes profesionales y motoristas.
 Artículo 196°.- (Requisitos para conductores particulares y motociclistas)Los
 requisitos para postular a la obtención de brevet o la licencia de conductor
 particular o motociclista son los siguientes:
-
-  1. Solicitud escrita dirigida al Jefe Departamental del Tránsito, en papel
-     sellado, timbres de ley y firma de abogado.
-  2. Certificado de nacimiento que acredite que el postulante ha cumplido la
-     edad mínima de 18 años.
-  3. Los postulantes varones mayores de 20 años presentarán copia legalizada de
-     su Libreta de Servicio Militar u otro documento que acredite su situación
-     militar. Los postulantes de 18 años que hubieran obtenido su brevet o
-     licencia están obligados a presentar copia legalizada de la Libreta de
-     Servicio Militar, una vez que hayan llegado a la edad reglamentaria.
-  4. Certificado médico que acredite las buenas condiciones de salud del
-     postulante. Este documento será otorgado por el facultativo del Servicio
-     Nacional del Tránsito.
-  5. Certificado médico oculista, otorgado por el facultativo del Servicio
-     Nacional del Tránsito, que acredite que el postulante tiene la visión
-     normal.
-  6. Certificado de buena conducta otorgado por la Dirección de Investigación
-     Nacional.
-  7. Certificado de estudios que acredite haber vencido el ciclo intermedio de
-     educación.
-
+1. Solicitud escrita dirigida al Jefe Departamental del Tránsito, en papel
+    sellado, timbres de ley y firma de abogado.
+2. Certificado de nacimiento que acredite que el postulante ha cumplido la
+    edad mínima de 18 años.
+3. Los postulantes varones mayores de 20 años presentarán copia legalizada de
+    su Libreta de Servicio Militar u otro documento que acredite su situación
+    militar. Los postulantes de 18 años que hubieran obtenido su brevet o
+    licencia están obligados a presentar copia legalizada de la Libreta de
+    Servicio Militar, una vez que hayan llegado a la edad reglamentaria.
+4. Certificado médico que acredite las buenas condiciones de salud del
+    postulante. Este documento será otorgado por el facultativo del Servicio
+    Nacional del Tránsito.
+5. Certificado médico oculista, otorgado por el facultativo del Servicio
+    Nacional del Tránsito, que acredite que el postulante tiene la visión
+    normal.
+6. Certificado de buena conducta otorgado por la Dirección de Investigación
+    Nacional.
+7. Certificado de estudios que acredite haber vencido el ciclo intermedio de
+    educación.
 Artículo 197°.- (Requisitos para choferes y motoristas)Los postulantes a
 choferes profesionales y motoristas cumplirá ti los requisitos señalados en el
 artículo anterior y deberán acreditar haber cumplido la edad mínima de 21 años
@@ -1088,12 +1063,10 @@ Artículo 199°.- (Revalidacion)Los conductores de la categoría particular,
 nacionales o extranjeros, que deseen revalidar sus Licencias o permisos de
 conducción obtenidos en países extranjeros, cumplirán los requisitos señalados
 por el artículo 196 y presentarán además:
-
-  a. La respectiva licencia o brevet extranjero.
-  b. Pasaporte con visa de radicatoria (para extranjeros) . Los ciudadanos de
-     nacionalidad extranjera están eximidos de presentar la Libreta de Servicio
-     Militar.
-
+a. La respectiva licencia o brevet extranjero.
+b. Pasaporte con visa de radicatoria (para extranjeros) . Los ciudadanos de
+    nacionalidad extranjera están eximidos de presentar la Libreta de Servicio
+    Militar.
 Artículo 200°.- (Procedencia de la revalidacion)La revalidación a la que se
 refiere el artículo anterior únicamente procede para la categoría particular y
 de ningún modo para la profesional, excepto para los de nacionalidad boliviana.
@@ -1103,35 +1076,27 @@ el solicitante.
 Artículo 201°.- (Requisitos para la autorizacion provisional)Los requisitos
 para postular a la obtención de la autorización provisional de conductor
 particular y motociclista son:
-
-  a. Certificado de nacimiento que acredite la edad mínima de 18 años para
-     conducir particular y 17 años motociclista.
-  b. Garantía solidaria, mancomunada e indivisible de tercera persona para la
-     reparación de los daños civiles en caso de accidente.
-
-
+a. Certificado de nacimiento que acredite la edad mínima de 18 años para
+    conducir particular y 17 años motociclista.
+b. Garantía solidaria, mancomunada e indivisible de tercera persona para la
+    reparación de los daños civiles en caso de accidente.
 Capítulo III
 De la convocatoria, constitución y funcionamiento de los tribunales
 examinadores
-
 Artículo 202°.- (Convocatoria)La Dirección General del Servicio Nacional del
 Tránsito, con carácter nacional, convocará a exámenes para postulantes a
 conductores en los siguientes periodos:
-
-  a. Para la categoría PARTICULAR en forma mensual.
-  b. Para la categoría PROFESIONAL en forma anual.
-
+a. Para la categoría PARTICULAR en forma mensual.
+b. Para la categoría PROFESIONAL en forma anual.
 Artículo 203°.- (Tribunales examinadores)Los tribunales examinadores estarán
 constituidos de la siguiente manera:
-
-  a. PRESIDENTE, el Jefe Departamental del Tránsito del respectivo Distrito.
-  b. SECRETARIO, el Jefe de la Sección Licencias o Brevets.
-  c. VOCAL, representante de la Confederación Sindical de Choferes de Bolivia,
-     o de la respectiva Federación.
-  d. VOCAL, representante del automóvil Club Boliviano.
-  e. COMISION TECNICA, integrada por personal de Servicio Nacional del
-     Tránsito.
-
+a. PRESIDENTE, el Jefe Departamental del Tránsito del respectivo Distrito.
+b. SECRETARIO, el Jefe de la Sección Licencias o Brevets.
+c. VOCAL, representante de la Confederación Sindical de Choferes de Bolivia,
+    o de la respectiva Federación.
+d. VOCAL, representante del automóvil Club Boliviano.
+e. COMISION TECNICA, integrada por personal de Servicio Nacional del
+    Tránsito.
 Artículo 204°.- (Funcionamiento del Tribunal)El día señalado para la iniciación
 de los exámenes el Tribunal entrará en funcionamiento con la totalidad de sus
 miembros debiendo llevar el Libro de Calificaciones de Exámenes debidamente
@@ -1146,37 +1111,29 @@ día en que se haya concluido de recibir los exámenes y será remitido a la
 Dirección General del Trabajo.
 Artículo 207°.- (Examenes para choferes profesionales)Los postulantes a
 choferes profesionales rendirán los siguientes exámenes:
-
-  a. Examen psicotécnico
-  b. Examen práctico de conducción en vehículo pesado.
-  c. Examen práctico de motores en vehículo pesado.
-  d. Examen teórico de normas de circulación, señalización y legislación de
-     tránsito.
-
+a. Examen psicotécnico
+b. Examen práctico de conducción en vehículo pesado.
+c. Examen práctico de motores en vehículo pesado.
+d. Examen teórico de normas de circulación, señalización y legislación de
+    tránsito.
 Artículo 208°.- (Examenes para motoristas)Los postulantes a motoristas rendirán
 los siguientes exámenes:
-
-  a. Examen psicotécnico.
-  b. Examen de conducción con equipo pesado
-  c. Examen teórico de normas de circulación, señalización y legislación de
-     tránsito.
-
+a. Examen psicotécnico.
+b. Examen de conducción con equipo pesado
+c. Examen teórico de normas de circulación, señalización y legislación de
+    tránsito.
 Artículo 209°.- (Examenes para conductores particulares)Los postulantes a
 conductores particulares rendirán las siguientes pruebas.:
-
-  a. Examen psicotécnico.
-  b. Examen práctico de conducción en vehículos livianos.
-  c. Examen teórico sobre normas de circulación, señalización y legislación de
-     tránsito.
-
+a. Examen psicotécnico.
+b. Examen práctico de conducción en vehículos livianos.
+c. Examen teórico sobre normas de circulación, señalización y legislación de
+    tránsito.
 Artículo 210°.- (Examenes para motociclistas)Los postulantes a motociclistas
 rendirán los siguientes exámenes:
-
-  a. Examen psicotécnico.
-  b. Examen práctico de conducción en motocicleta.
-  c. Examen teórico sobre normas de circulación, señalización y legislación de
-     tránsito.
-
+a. Examen psicotécnico.
+b. Examen práctico de conducción en motocicleta.
+c. Examen teórico sobre normas de circulación, señalización y legislación de
+    tránsito.
 Artículo 211°.- (Examenes para ciclistas)Los postulantes a ciclistas rendirán
 examen de suficiencia y sobre conocimientos generales de la legislación de
 tránsito y normas de circulación. Estos exámenes serán recibidos por el
@@ -1185,11 +1142,9 @@ que lo soliciten los interesados sin necesidad de previa convocatoria.
 Artículo 212°.- (Examenes para ampliaclon)Los conductores que desean ampliar su
 brevet o licencia de la categoría particular a la profesional rendirán los
 siguientes exámenes:
-
-  a. Examen práctico de conducción en vehículo pesado.
-  b. Examen práctico de motores.
-  c. Examen teórico de motores.
-
+a. Examen práctico de conducción en vehículo pesado.
+b. Examen práctico de motores.
+c. Examen teórico de motores.
 Artículo 213°.- (Examenes para revalidacion)Los conductores que deseen
 revalidar su brevet o licencia extranjera por otra nacional rendirán exámenes
 sobre normas de circulación, señalización y legislación boliviana de tránsito.
@@ -1216,7 +1171,6 @@ rizado.
 
 Capítulo IV
 De los auxiliares del conductor
-
 Artículo 218°.- (Clasificacion)Los auxiliares del conductor se clasifican en
 ayudantes y cobradores. Son ayudantes los que cooperan al conductor en el
 servicio público de transporte interprovincial, interdepartamental o
@@ -1225,16 +1179,14 @@ conductor en el cobro de los pasajes y atención de las personas en el servicio
 de transporte colectivo de pasajeros.
 Artículo 219°.- (Requisitos)Para desempeñar las funciones de ayudante se
 cumplirán los siguientes requisitos:
-
-  a. Edad mínima 18 años cumplidos
-  b. Saber leer y escribir.
-  c. Garantía de persona solvente y siendo menor de edad autorización de los
-     padres o tutor.
-  d. Tener buena salud.
-  e. Observar buena conducta.
-  f. Presentar cédula de identidad.
-  g. Recabar de la Policía de Tránsito, el respectivo Carnet de Ayudante.
-
+a. Edad mínima 18 años cumplidos
+b. Saber leer y escribir.
+c. Garantía de persona solvente y siendo menor de edad autorización de los
+    padres o tutor.
+d. Tener buena salud.
+e. Observar buena conducta.
+f. Presentar cédula de identidad.
+g. Recabar de la Policía de Tránsito, el respectivo Carnet de Ayudante.
 Artículo 220°.- (Requisitos para ser cobrador)Para desempeñar las funciones de
 cobrador se requiere los mismos requisitos que para ser ayudante con excepción
 de la edad que se la fija en los 14 años cumplidos como mínimo.
@@ -1246,14 +1198,11 @@ disposición.
 
 Título IV
 De los servicios públicos
-
 Artículo 226°.- (Transporte internacional)El servicio de transporte
 internacional de pasajeros o carga es el que se realiza con el exterior del
 país.
-
 Capítulo I
 De la clasificacion de los servicios públicos
-
 Artículo 222°.- (Clasificacion)Los servicios públicos se clasifican en: urbano,
 interprovincial, interdepartamental e internacional.
 Artículo 223°.- (Transporte urbano)Esta clase de servicio se circunscribe al
@@ -1270,21 +1219,17 @@ Artículo 227°.- (Requisitos generales)Con carácter general, todo vehículo, p
 prestar servicio público de transporte de pasajeros o carga, deberá reunir las
 siguientes condiciones y requisitos: 1) Buen estado mecánico y de
 funcionamiento, de modo que se garantice la seguridad del usuario.
-
-  1. Permanente estado de higiene y limpieza.
-  2. Elementos que permitan una adecuada comodidad al usuario.
-
+1. Permanente estado de higiene y limpieza.
+2. Elementos que permitan una adecuada comodidad al usuario.
 Artículo 228°.- (Requisitos especiales)Las personas que tengan interés en
 incorporar o que soliciten el ingreso de un vehículo al servicio público
 deberán cumplir los siguientes requisitos:
-
-  1. Tramitar y obtener la respectiva autorización del Servicio Nacional del
-     Tránsito.
-  2. Acreditar su condición de chófer profesional
-  3. Acreditar el derecho de propiedad o posesión legal del vehículo
-  4. Cumplir los requisitos establecidos por el Decreto_Supremo_Nº_10715 de 1o
-     de febrero de 1973
-
+1. Tramitar y obtener la respectiva autorización del Servicio Nacional del
+    Tránsito.
+2. Acreditar su condición de chófer profesional
+3. Acreditar el derecho de propiedad o posesión legal del vehículo
+4. Cumplir los requisitos establecidos por el Decreto_Supremo_Nº_10715 de 1o
+    de febrero de 1973
 Artículo 229°.- (Personalidad juridica)Las empresas y sociedades de transporte,
 para prestar servicios públicos cumplirán los requisitos señalados
 anteriormente y acreditarán el reconocimiento de su personalidad jurídica,
@@ -1361,24 +1306,21 @@ acreditarán su identidad, buena salud y conducta intachables.
 Artículo 246°.- (Normas especiales)Los conductores de los microbuses, sin
 perjuicio de cumplir los requisitos y normas establecidas para todos los
 vehículos de servicio público, observarán las siguientes:
-
-  a. Recogerán y dejarán pasajeros únicamente en los lugares señalados por la
-     autoridad.
-  b. No llevarán pasajeros parados.
-  c. Sujetarán su recorrido a las rutas y horarios establecidos por el
-     Ministerio de Transporte, Comunicaciones y Aeronáutica Civil en
-     coordinación con la Policía de Tránsito de acuerdo a las necesidades.
-  d. Llevarán letreros indicadores de la línea que recorren y el distintivo de
-     su ruta.
-  e. Los vehículos destinados a este servicio serán obligatoriamente pintados
-     de un solo color en cada Departamento. La elección del color se hará de
-     acuerdo entre las Jefaturas Departamentales de Tránsito y las respectivas
-     organizaciones sindicales.
-
+a. Recogerán y dejarán pasajeros únicamente en los lugares señalados por la
+    autoridad.
+b. No llevarán pasajeros parados.
+c. Sujetarán su recorrido a las rutas y horarios establecidos por el
+    Ministerio de Transporte, Comunicaciones y Aeronáutica Civil en
+    coordinación con la Policía de Tránsito de acuerdo a las necesidades.
+d. Llevarán letreros indicadores de la línea que recorren y el distintivo de
+    su ruta.
+e. Los vehículos destinados a este servicio serán obligatoriamente pintados
+    de un solo color en cada Departamento. La elección del color se hará de
+    acuerdo entre las Jefaturas Departamentales de Tránsito y las respectivas
+    organizaciones sindicales.
 
 Capítulo VI
 Del servicio urbano de transporte colectivo de pasajeros
-
 Artículo 247°.- (Transporte colectivo de pasajeros)El servicio urbano de
 transporte colectivo de pasajeros es el que se realiza mediante omnibuses cuya
 capacidad es superior a los veintidós pasajeros y cuyas terminales, líneas de
@@ -1393,28 +1335,25 @@ presentación, mantenimiento y limpieza.
 Artículo 249°.- (Requisitos especiales)Los vehículos destinados al servicio
 urbano de transporte colectivo de pasajeros cumplirán los siguientes requisitos
 especiales.
-
-  1. Llevarán placa especial de SERVICIO PUBLICO.
-  2. En el anterior del vehículo, colocado en lugar visible llevarán:
-
-       a. Plaqueta con el número de la placa del vehículo.
-       b. Cartel con la tarifa vigente, con el sello y firma de la autoridad.
-       c. Dos carteles colocados, uno en el parabrisas y otro en la parte
-          trasera, indicadores de la ruta o línea de recorrido del vehículo.
-       d. Dos carteles colocados, uno en el parabrisas y otro en la parte
-          trasera, indicadores del número de la línea a la que pertenece el
-          vehículo.
-       e. Plaqueta indicadora de la capacidad o número de pasajeros sentados
-          que puede llevar el vehículo.
-       f. Letreros con las leyendas "PROHIBIDO FUMAR" Y "PROHIBIDO ESCUPIR"
-       g. Letreros indicadores de las puertas de ENTRADA Y SALIDA.
-       h. El conductor irá debidamente aislado mediante una barra protectora
-          colocada alrededor de su asiento.
-       i. Les ómnibuses y colectivos que prestan este servicio serán
-          obligatoriamente pintados de color único por Departamento. La
-          elección del color se acordará entre la autoridad de Tránsito y la
-          respectiva Federación de Choferes.
-
+1. Llevarán placa especial de SERVICIO PUBLICO.
+2. En el anterior del vehículo, colocado en lugar visible llevarán:
+a. Plaqueta con el número de la placa del vehículo.
+b. Cartel con la tarifa vigente, con el sello y firma de la autoridad.
+c. Dos carteles colocados, uno en el parabrisas y otro en la parte
+    trasera, indicadores de la ruta o línea de recorrido del vehículo.
+d. Dos carteles colocados, uno en el parabrisas y otro en la parte
+    trasera, indicadores del número de la línea a la que pertenece el
+    vehículo.
+e. Plaqueta indicadora de la capacidad o número de pasajeros sentados
+    que puede llevar el vehículo.
+f. Letreros con las leyendas "PROHIBIDO FUMAR" Y "PROHIBIDO ESCUPIR"
+g. Letreros indicadores de las puertas de ENTRADA Y SALIDA.
+h. El conductor irá debidamente aislado mediante una barra protectora
+    colocada alrededor de su asiento.
+i. Les ómnibuses y colectivos que prestan este servicio serán
+    obligatoriamente pintados de color único por Departamento. La
+    elección del color se acordará entre la autoridad de Tránsito y la
+    respectiva Federación de Choferes.
 
 Artículo 250°.- (Normas para dejar y recoger pasajeros)Los ómnibuses de
 transporte urbano de pasajeros solamente podrán detenerse para dejar o recoger
@@ -1437,34 +1376,32 @@ vehículos o sea, tanto el conductor como el cobrador, están obligados a una
 presentación aseada y a tratar al público en forma respetuosa.
 Artículo 254°.- (Prohibiciones)Está prohibido a los conductores de ómnibuses de
 transporte urbano de pasajeros:
-
-  1. Llevar mayor número de pasajeros que el permitido por la autoridad.
-  2. Cobrar una tarifa mayor a la legalmente autorizada.
-  3. Fumar, conversar o distraerse al conducir el vehículo.
-  4. Negarse a transportar estudiantes (escolares) o a los funcionarios de la
-     Policía de Tránsito.
-  5. Admitir en el vehículo individuos en manifiesto estado de ebriedad,
-     enfermos infecto-contagiosos, personas que ejerzan la mendicidad o
-     cualquier clase de comercio.
-  6. Admitir pasajeros que lleven bultos, canastos o paquetes, que por su
-     volumen o naturaleza, puedan ocasionar molestias a los demás pasajeros.
-  7. Permitir que los pasajeros vayan en las pisaderas o "colgados" del
-     vehículo.
-  8. Entablar competencias de velocidad o aumentar con el objeto de disputarse
-     los pasajeros o disminuirla, entorpeciendo la normal circulación de los
-     demás vehículos.
-  9. No respetar su línea de recorrido y cumplir caprichosamente el horario
-     establecido.
- 10. Llevar pasajeros sin boleto, salvo las excepciones establecidas por este
-     Reglamento.
- 11. Proveer al vehículo de combustible (cargar gasolina) estando en servicio y
-     con pasajeros
- 12. Permitir el transporte de animales. Abandonar el servicio sin previo
-     permiso de la autoridad.
- 13. Mantener las puertas abiertas mientras el vehículo está en movimiento.
- 14. Poner en movimiento o no detener el vehículo completamente cuando hay
-     pasajeros que desean bajar o subir al mismo.
-
+1. Llevar mayor número de pasajeros que el permitido por la autoridad.
+2. Cobrar una tarifa mayor a la legalmente autorizada.
+3. Fumar, conversar o distraerse al conducir el vehículo.
+4. Negarse a transportar estudiantes (escolares) o a los funcionarios de la
+    Policía de Tránsito.
+5. Admitir en el vehículo individuos en manifiesto estado de ebriedad,
+    enfermos infecto-contagiosos, personas que ejerzan la mendicidad o
+    cualquier clase de comercio.
+6. Admitir pasajeros que lleven bultos, canastos o paquetes, que por su
+    volumen o naturaleza, puedan ocasionar molestias a los demás pasajeros.
+7. Permitir que los pasajeros vayan en las pisaderas o "colgados" del
+    vehículo.
+8. Entablar competencias de velocidad o aumentar con el objeto de disputarse
+    los pasajeros o disminuirla, entorpeciendo la normal circulación de los
+    demás vehículos.
+9. No respetar su línea de recorrido y cumplir caprichosamente el horario
+    establecido.
+10. Llevar pasajeros sin boleto, salvo las excepciones establecidas por este
+    Reglamento.
+11. Proveer al vehículo de combustible (cargar gasolina) estando en servicio y
+    con pasajeros
+12. Permitir el transporte de animales. Abandonar el servicio sin previo
+    permiso de la autoridad.
+13. Mantener las puertas abiertas mientras el vehículo está en movimiento.
+14. Poner en movimiento o no detener el vehículo completamente cuando hay
+    pasajeros que desean bajar o subir al mismo.
 Artículo 255°.- (Imposibilidad de continuar la marcha)Si el vehículo quedare
 imposibilitado de continuar su marcha, por haber sufrido un accidente o por
 cualquier otra causa, el conductor devolverá el valor del pasaje contra
@@ -1480,16 +1417,14 @@ personal de estos vehículos tienen la obligación de respetar, cumplir sus
 instrucciones y obedecer sus órdenes.
 Artículo 258°.- (Prohibicion a los pasajeros)Es prohibido a los pasajeros de
 estos vehículos:
-
-  1. Ubicarse en el vehículo de forma que dificulten la libre visibilidad y
-     maniobrabilidad del conductor o que impidan la bajada o subida de los
-     demás pasajeros.
-  2. Conversar con el conductor distrayendo su atención.
-  3. Escupir, ensuciar o arrojar desperdicios dentro o fuera del vehículo.
-  4. Fumar dentro del vehículo.
-  5. Ocasionar discusiones, reyertas o escándalos con los demás pasajeros o con
-     cl conductor o cobrador del vehículo.
-
+1. Ubicarse en el vehículo de forma que dificulten la libre visibilidad y
+    maniobrabilidad del conductor o que impidan la bajada o subida de los
+    demás pasajeros.
+2. Conversar con el conductor distrayendo su atención.
+3. Escupir, ensuciar o arrojar desperdicios dentro o fuera del vehículo.
+4. Fumar dentro del vehículo.
+5. Ocasionar discusiones, reyertas o escándalos con los demás pasajeros o con
+    cl conductor o cobrador del vehículo.
 Artículo 259°.- (Obligacion de observar normas)Con carácter general los
 pasajeros están obligados a cumplir las normas señaladas por los artículos 147
 y siguientes de este Reglamento.
@@ -1561,23 +1496,19 @@ Transportes, Comunicaciones y Aeronáutica Civil, en coordinación con el
 Servicio Nacional de Tránsito.
 Artículo 275°.- (Requisitos de los vehiculos)Los ómnibuses destinados al
 transporte interprovincial de pasajeros reunirán las siguientes condiciones:
-
-  1. Cumplirán los requisitos generales señalados por los artículos 227 y
-     siguientes para los vehículos de servicio público.
-  2. Llevarán colocados en lugar visible del interior del vehículo:
-
-       a. LETRERO con la tarifa legalmente autorizada y,
-       b. DOS LETREROS, uno adelante y otro atrás, indicadores del itinerario y
-          horarios de salida y llegada.
-
+1. Cumplirán los requisitos generales señalados por los artículos 227 y
+    siguientes para los vehículos de servicio público.
+2. Llevarán colocados en lugar visible del interior del vehículo:
+a. LETRERO con la tarifa legalmente autorizada y,
+b. DOS LETREROS, uno adelante y otro atrás, indicadores del itinerario y
+    horarios de salida y llegada.
 
 Artículo 276°.- (Prohibiciones)Es prohibido a los conductores de estos
 vehículos:
-
-  1. Conducir pasajeros parados.
-  2. Permitir paquetes, bultos o canastas que por su tamaño o naturaleza
-     molestias a los pasajeros.
-  3. Llevar aves, canes u otros animales.
+1. Conducir pasajeros parados.
+2. Permitir paquetes, bultos o canastas que por su tamaño o naturaleza
+    molestias a los pasajeros.
+3. Llevar aves, canes u otros animales.
 
 Artículo 277°.- (Especificaciones tecnicas de los vehiculos)Los ómnibuses de
 servicio interprovincial cumplirán las disposiciones de las Jefaturas
@@ -1613,37 +1544,35 @@ Servicio Nacional de Tránsito.
 Artículo 284°.- (Requisitos de los vehiculos)Los omnibuses destinados al
 transporte interdepartamental de pasajeros deberán reunir los siguientes
 requisitos:
-
-  1. Capacidad mínima para 22 pasajeros, salvo que se trate de otros vehículos
-     de menor capacidad especialmente autorizados.
-  2. Asientos reclinables, tipo "pullman"
-  3. Cisterna de ventilación en permanente estado de funcionamiento.
-  4. Canastillas interiores laterales.
-  5. Vidrios de seguridad corredizos.
-  6. Sistema de calefacción para los climas frígidos.
-  7. Parrilla colocada sobre el techo del vehículo o buzones para el transporte
-     del equipaje.
-  8. Salida de emergencia de fácil operabilidad.
-  9. Luces interiores individuales para cada pasajero
- 10. Letreros indicadores de la ruta que recorre el vehículo.
- 11. Luces interiores individuales para cada pasajero.
+1. Capacidad mínima para 22 pasajeros, salvo que se trate de otros vehículos
+    de menor capacidad especialmente autorizados.
+2. Asientos reclinables, tipo "pullman"
+3. Cisterna de ventilación en permanente estado de funcionamiento.
+4. Canastillas interiores laterales.
+5. Vidrios de seguridad corredizos.
+6. Sistema de calefacción para los climas frígidos.
+7. Parrilla colocada sobre el techo del vehículo o buzones para el transporte
+    del equipaje.
+8. Salida de emergencia de fácil operabilidad.
+9. Luces interiores individuales para cada pasajero
+10. Letreros indicadores de la ruta que recorre el vehículo.
+11. Luces interiores individuales para cada pasajero.
 
 Artículo 285°.- (Normas)El servicio de transporte interdepartamental de
 pasajeros se sujetará a las siguientes normas:
-
-  1. El número de asientos del vehículo determina el número exacto de pasajeros
-     a transportar. En ningún caso se permitirá llevar pasajeros sin asiento.
-  2. El equipaje será transportado en la parrilla o en los buzones bajo la
-     responsabilidad de la empresa o propietario del vehículo. El pasajero
-     únicamente llevará consigo su equipaje de mano y siempre que no ocasione
-     molestias y dificultades a los demás pasajeros, siendo responsable de su
-     cuidado para evitar extravíos.
-  3. Es prohibido colocar asientos auxiliares, sillas o taburetes.
-  4. Estos vehículos tendrán un ayudante-asistente para la atención de los
-     pasajeros y cooperación al conductor.
-  5. Es prohibido permitir el traslado de canes, aves u otros animales
-     juntamente con los pasajeros.
-  6. Es prohibido cobrar mayor tarifa que la legalmente autorizada.
+1. El número de asientos del vehículo determina el número exacto de pasajeros
+    a transportar. En ningún caso se permitirá llevar pasajeros sin asiento.
+2. El equipaje será transportado en la parrilla o en los buzones bajo la
+    responsabilidad de la empresa o propietario del vehículo. El pasajero
+    únicamente llevará consigo su equipaje de mano y siempre que no ocasione
+    molestias y dificultades a los demás pasajeros, siendo responsable de su
+    cuidado para evitar extravíos.
+3. Es prohibido colocar asientos auxiliares, sillas o taburetes.
+4. Estos vehículos tendrán un ayudante-asistente para la atención de los
+    pasajeros y cooperación al conductor.
+5. Es prohibido permitir el traslado de canes, aves u otros animales
+    juntamente con los pasajeros.
+6. Es prohibido cobrar mayor tarifa que la legalmente autorizada.
 
 Artículo 286°.- (Chofer de relevo)Los ómnibuses de transporte
 interdepartamental que prestan servicios cuyo recorrido sea superior a los 300
@@ -1750,12 +1679,11 @@ chofer
 Artículo 304°.- (Requisitos)Las personas interesadas en abrir agencias de
 alquiler de motocicletas, motonetas o bicicletas, deberán cumplir los
 siguientes requisitos:
-
-  1. Solicitud escrita dirigida al Jefe Departamental de Tránsito, en papel
-     sellado, timbres de ley y firma de abogado.
-  2. Documentación que acredite el derecho de propiedad sobre los vehículos.
-  3. Agencia y oficina con las instalaciones necesarias para un adecuado
-     servicio.
+1. Solicitud escrita dirigida al Jefe Departamental de Tránsito, en papel
+    sellado, timbres de ley y firma de abogado.
+2. Documentación que acredite el derecho de propiedad sobre los vehículos.
+3. Agencia y oficina con las instalaciones necesarias para un adecuado
+    servicio.
 
 Artículo 305°.- (Prohibicion)Es prohibido alquilar los vehículos a que se
 refiere el articulo anterior a menores de 17 años y se exigirá además la
@@ -1773,32 +1701,29 @@ excepción de que en ningún caso podrá alquilarse vehículos a menores de edad
 
 Título V
 De los documemos y registros
-
-
 Capítulo I
 Del brevet o licencia
 
 Artículo 309°.- (Datos)Todo Brevet o Licencia contendrá los siguientes datos.
-
-  1. Nombre y apellido paterno y materno del interesado.
-  2. Lugar de Nacimiento
-  3. Nacionalidad
-  4. Edad
-  5. Estado Civil
-  6. Profesión
-  7. Número de la Cédula de Identidad
-  8. Número de la Libreta de servicio Militar
-  9. Señales particulares
- 10. Impresiones digitales
- 11. Fotografía
- 12. Grupo sanguíneo
- 13. Fecha de examen
- 14. Número de Brevet o Licencia
- 15. Categoría
- 16. Fecha de expedición
- 17. Firma del interesado, Jefe Departamental de Tránsito del Distrito donde se
-     ha rendido el examen, Jefe del Departamento Nacional de Brevets y Director
-     General del Servicio Nacional del Tránsito.
+1. Nombre y apellido paterno y materno del interesado.
+2. Lugar de Nacimiento
+3. Nacionalidad
+4. Edad
+5. Estado Civil
+6. Profesión
+7. Número de la Cédula de Identidad
+8. Número de la Libreta de servicio Militar
+9. Señales particulares
+10. Impresiones digitales
+11. Fotografía
+12. Grupo sanguíneo
+13. Fecha de examen
+14. Número de Brevet o Licencia
+15. Categoría
+16. Fecha de expedición
+17. Firma del interesado, Jefe Departamental de Tránsito del Distrito donde se
+    ha rendido el examen, Jefe del Departamento Nacional de Brevets y Director
+    General del Servicio Nacional del Tránsito.
 
 Artículo 310°.- (Sistema polaroid)Las réplicas de brevets o licencias serán
 otorgadas por el sistema de identificación "POLAROID" en los siguientes
@@ -1811,31 +1736,28 @@ Artículo 312°.- (Duracion de 5 años)Las réplicas de brevets o licencias son 
 carácter nacional y tienen validez por el término de cinco años, debiendo
 renovarse obligatoriamente a su expiración previo cumplimiento de los
 siguientes requisitos:
-
-  1. Solicitud escrita con firma de abogado, en papel sellado y timbres de ley
-     dirigida al Jefe Departamental del Tránsito.
-  2. Certificado médico y oculista expedidos en los valores fiscales por los
-     facultativos que elija el interesado.
-  3. Presentación de la réplica de Brevet o Licencia a renovarse.
+1. Solicitud escrita con firma de abogado, en papel sellado y timbres de ley
+    dirigida al Jefe Departamental del Tránsito.
+2. Certificado médico y oculista expedidos en los valores fiscales por los
+    facultativos que elija el interesado.
+3. Presentación de la réplica de Brevet o Licencia a renovarse.
 
 Artículo 313°.- (Duplicados del brevet, licencia o replica)Por extravío o
 deterioro de Brevet o Licencia y réplica podrá tramitarse el correspondiente
 DUPLICADO, previo cumplimiento de los requisitos siguientes:
-
-  1. Solicitud escrita con firma de abogado, papel sellado y timbras de ley
-     dirigida al fe Departamental del Tránsito.
-  2. Certificados médico y oculista expedidos en los valores fiscales por los
-     facultativos que elija el interesado.
+1. Solicitud escrita con firma de abogado, papel sellado y timbras de ley
+    dirigida al fe Departamental del Tránsito.
+2. Certificados médico y oculista expedidos en los valores fiscales por los
+    facultativos que elija el interesado.
 
 Artículo 314°.- (Prohibiciones)Queda terminantemente prohibido a los
 conductores:
-
-  1. Alterar los brevets o licencia, réplicas, permisos o autorizaciones.
-  2. Prestar o facilitar el brevet, licencia o réplica a otras personas para la
-     conducción de vehículos.
-  3. Conducir vehículos estando suspendido o con el brevet, licencia o la
-     réplica cancelados.
-  4. Dejar en prenda el brevet, licencia o réplica
+1. Alterar los brevets o licencia, réplicas, permisos o autorizaciones.
+2. Prestar o facilitar el brevet, licencia o réplica a otras personas para la
+    conducción de vehículos.
+3. Conducir vehículos estando suspendido o con el brevet, licencia o la
+    réplica cancelados.
+4. Dejar en prenda el brevet, licencia o réplica
 
 Artículo 315°.- (Record nacional de conductores)Siendo necesario centralizar
 con fines estadísticos y de información los antecedentes de todos los
@@ -1846,19 +1768,17 @@ la respectiva ficha kardex del conductor.
 
 Capítulo II
 De las autorizaciones provisionales y permisos oficiales
-
 Artículo 316°.- (Requisitos)Los requisitos para la obtención de las
 autorizaciones provisionales a las que se refieren los artículos 113 y 114 del
 Código Nacional del Tránsito son los siguientes:
-
-  1. Edad mínima: 18 años cumplidos.
-  2. Presentación del correspondiente formulario de solicitud.
-  3. Pago de los respectivos valores en la Oficina Nacional de Recaudaciones.
-  4. Adquisición de una ficha kardex
-  5. Garantía personal, solidaria y mancomunada del padre, tutor o de persona
-     solvente.
-  6. Rendir examen de suficiencia ante el personal técnico de la respectiva
-     Jefatura Departamental del Tránsito.
+1. Edad mínima: 18 años cumplidos.
+2. Presentación del correspondiente formulario de solicitud.
+3. Pago de los respectivos valores en la Oficina Nacional de Recaudaciones.
+4. Adquisición de una ficha kardex
+5. Garantía personal, solidaria y mancomunada del padre, tutor o de persona
+    solvente.
+6. Rendir examen de suficiencia ante el personal técnico de la respectiva
+    Jefatura Departamental del Tránsito.
 
 Artículo 317°.- (Duracion)Las autorizaciones provisionales se otorgarán
 indistintamente por el término de 30, 60 ó 90 días a elección del interesado.
@@ -1868,39 +1788,36 @@ de los requisitos señalados por este Reglamento y después de haber aprobado lo
 exámenes correspondientes
 Artículo 318°.- (Datos)La autorización provisional contendrá los siguientes
 datos:
-
-  1. Nombre y apellidos del interesado.
-  2. Lugar de extensión
-  3. Fecha de extensión.
-  4. Fecha de expiración.
-  5. Fotografía del Interesado
-  6. Firma del Interesado.
-  7. Firma del Jefe Departamental del Tránsito.
+1. Nombre y apellidos del interesado.
+2. Lugar de extensión
+3. Fecha de extensión.
+4. Fecha de expiración.
+5. Fotografía del Interesado
+6. Firma del Interesado.
+7. Firma del Jefe Departamental del Tránsito.
 
 Artículo 319°.- (Valorado)Las autorizaciones provisionales serán otorgadas en
 el valorado que expende la Administración Nacional de la Renta.
 Artículo 320°.- (Requisitos para permisos oficiales)Para la obtención de los
 permisos oficiales prescritos por los artículos 115, 116, 117 del Código
 Nacional del Tránsito, se requiere cumplir los requisitos siguientes:
-
-  1. Solicitud escrita por intermedio del Ministerio de Relaciones Exteriores y
-     Culto tratándose de funcionarios diplomáticos o consulares extranjeros o
-     personeros de Misiones extranjeras que cumplan labores especiales en
-     Bolivia,
-  2. Cancelación de los valores correspondientes a la Oficina Nacional de
-     Recaudaciones.
-  3. Adquisición de la respectiva tarjeta kardex.
-  4. Garantía solidaria y mancomunada de persona solvente.
+1. Solicitud escrita por intermedio del Ministerio de Relaciones Exteriores y
+    Culto tratándose de funcionarios diplomáticos o consulares extranjeros o
+    personeros de Misiones extranjeras que cumplan labores especiales en
+    Bolivia,
+2. Cancelación de los valores correspondientes a la Oficina Nacional de
+    Recaudaciones.
+3. Adquisición de la respectiva tarjeta kardex.
+4. Garantía solidaria y mancomunada de persona solvente.
 
 Artículo 321°.- (Datos)Los permisos oficiales contendrán los siguientes datos:
-
-  1. Nombre y apellido del interesado.
-  2. Nacionalidad.
-  3. Fecha de otorgamiento.
-  4. Fotografía.
-  5. Firma del interesado.
-  6. Firma del Jefe del Departamento Nacional de Brevet.
-  7. Firma del Director General del Servicio Nacional del Tránsito.
+1. Nombre y apellido del interesado.
+2. Nacionalidad.
+3. Fecha de otorgamiento.
+4. Fotografía.
+5. Firma del interesado.
+6. Firma del Jefe del Departamento Nacional de Brevet.
+7. Firma del Director General del Servicio Nacional del Tránsito.
 
 Artículo 322°.- (Duracion)Los permisos oficiales tienen vigencia por un año,
 pudiendo renovarse por iguales períodos mientras dure la misión.
@@ -1908,11 +1825,10 @@ Artículo 323°.- (Permiso de aprendizaje)El permiso de aprendizaje para la
 conducción de vehículos tendrá una duración de 30 días y será concedido por las
 Jefaturas Departamentales de Tránsito, previo cumplimiento de los siguientes
 requisitos:
-
-  1. Solicitud escrita dirigida al Jefe Departamental del Tránsito.
-  2. Certificado de nacimiento que acredite que el solicitante ha cumplido la
-     edad mínima de 17 años.
-  3. Garantía del padre, apoderado o de persona solvente.
+1. Solicitud escrita dirigida al Jefe Departamental del Tránsito.
+2. Certificado de nacimiento que acredite que el solicitante ha cumplido la
+    edad mínima de 17 años.
+3. Garantía del padre, apoderado o de persona solvente.
 
 Artículo 324°.- (Normas para el aprendizaje)Las prácticas para el aprendizaje
 deberán efectuarse fuera del radio urbano de las ciudades y poblaciones,
@@ -1935,7 +1851,6 @@ Código Nacional del Tránsito y este Reglamento.
 
 Capítulo IV
 Del carnet de propiedad de vehículos
-
 Artículo 329°.- (Valor probatorio)Conforme al artículo 121 del Código_de
 Tránsito el carnet de propiedad es el único documento que acredita el derecho
 de propiedad sobre un vehículo. Las situaciones litigiosas se resolverán
@@ -1949,7 +1864,6 @@ mediante la presentación del respectivo Carnet de Propiedad.
 
 Capítulo V
 De las placas
-
 Artículo 332°.- (Prohibicion de circular sin placas)Ningún vehículo podrá
 circular en el territorio nacional sin placas colocadas en lugar visible y que
 correspondan a la serie distintiva del tipo del vehículo y de la clase de
@@ -2036,14 +1950,13 @@ Artículo 350°.- (Numeros laterales)El número de la placa deberá pintarse
 obligatoriamente a ambos lados del vehículo. Estos números laterales estarán
 pintados en colores perfectamente visibles y tendrán las siguientes
 características:
-
-  1. Para camiones y ómnibuses: 20 centímetros de alto, 2 centímetros de ancho
-     y 2 centímetros de separación entre números.
-  2. Para jeeps, vagonetas y camionetas 15 centímetros de alto, 2 centímetros
-     de ancho y 2 centímetros de separación entre números.
-  3. Para automóviles de servicio público (taxis) 10 centímetros de alto, 2
-     centímetros de ancho y 2 centímetros de separación entre números, pintados
-     en las puertas laterales.
+1. Para camiones y ómnibuses: 20 centímetros de alto, 2 centímetros de ancho
+    y 2 centímetros de separación entre números.
+2. Para jeeps, vagonetas y camionetas 15 centímetros de alto, 2 centímetros
+    de ancho y 2 centímetros de separación entre números.
+3. Para automóviles de servicio público (taxis) 10 centímetros de alto, 2
+    centímetros de ancho y 2 centímetros de separación entre números, pintados
+    en las puertas laterales.
 
 Artículo 351°.- (Numeros visibles y luz a la placa)Con carácter general el
 número de las placas y los números laterales de todo vehículo serán
@@ -2052,31 +1965,29 @@ escondido el sistema de luces para el alumbrado de sus placas traseras.
 Artículo 352°.- (Placas para vehiculos reconstruidos)El otorgamiento de placas
 para los vehículos rehabilitados o reconstruidos mediante trabajos de mecánica
 nacional estará sujeto a las siguientes condiciones y requisitos:
-
-  1. Documentación legal que acredite el derecho de propiedad sobre el chasis y
-     el motor del vehículo a reconstruirse, con indicación del número de la
-     placa de vehículo al que pertenecieron.
-  2. Presentación de documentos y facturas que acrediten la legal adquisición
-     de las piezas y repuestos principales utilizados en la reconstrucción.
-  3. Autorización de la respectiva Jefatura Departamental del Tránsito para
-     iniciar los trabajos de rehabilitación, la que se concederá previo informe
-     técnico por el que se establezca que el chasis y el motor a utilizarse en
-     la reconstrucción corresponden a otro u otros vehículos cuyos registros
-     han sido cancelados.
-  4. En ningún caso el modelo del vehículo a reconstruirse será de una
-     antigüedad menor a los 10 años, salvo casos de siniestro debidamente
-     comprobados.
-  5. Solamente la Dirección General del Tránsito podrá disponer mediante
-     Resolución expresa la inscripción y el otorgamiento de placas a estos
-     vehículos previo informe salvado por el personal técnico del Servicio
-     Nacional del Tránsito, por el que se establezca que el vehículo ha sido
-     efectivamente reconstruido y que sobre el chasis o motor no existe ninguna
-     placa vigente.
+1. Documentación legal que acredite el derecho de propiedad sobre el chasis y
+    el motor del vehículo a reconstruirse, con indicación del número de la
+    placa de vehículo al que pertenecieron.
+2. Presentación de documentos y facturas que acrediten la legal adquisición
+    de las piezas y repuestos principales utilizados en la reconstrucción.
+3. Autorización de la respectiva Jefatura Departamental del Tránsito para
+    iniciar los trabajos de rehabilitación, la que se concederá previo informe
+    técnico por el que se establezca que el chasis y el motor a utilizarse en
+    la reconstrucción corresponden a otro u otros vehículos cuyos registros
+    han sido cancelados.
+4. En ningún caso el modelo del vehículo a reconstruirse será de una
+    antigüedad menor a los 10 años, salvo casos de siniestro debidamente
+    comprobados.
+5. Solamente la Dirección General del Tránsito podrá disponer mediante
+    Resolución expresa la inscripción y el otorgamiento de placas a estos
+    vehículos previo informe salvado por el personal técnico del Servicio
+    Nacional del Tránsito, por el que se establezca que el vehículo ha sido
+    efectivamente reconstruido y que sobre el chasis o motor no existe ninguna
+    placa vigente.
 
 
 Capítulo VI
 De las papeletas de inspección, de control y de servicios
-
 Artículo 353°.- (Valor probatorio)La papeleta de inspección es el documento que
 acredita que el vehículo ha sido sometido a la revisión técnica dispuesta por
 el Capítulo IV Titulo II del Código_de_Tránsito.
@@ -2101,7 +2012,6 @@ papeleta de servicios.
 
 Capítulo VII
 De la hoja de ruta
-
 Artículo 357°.- (Obligacion de recabarla)Todo conductor para efectuar viajes
 con su vehículo fuera del radio urbano de las ciudades y poblaciones, está
 obligado a recabar de la Policía del Tránsito la correspondiente hoja de ruta.
@@ -2112,69 +2022,62 @@ intermedios que señale la autoridad del Tránsito.
 
 Capítulo VIII
 De los registros
-
 Artículo 359°.- (Registro de importadores)El registro de los importadores de
 vehículos repuestos y accesorios, reconocidos y legalmente autorizados
 contendrá los siguientes datos:
-
-  1. Nombre completo del importador.
-  2. Dirección de la casa o establecimiento comercial y de sus sucursales.
-  3. Marca y línea de los vehículos que importan.
+1. Nombre completo del importador.
+2. Dirección de la casa o establecimiento comercial y de sus sucursales.
+3. Marca y línea de los vehículos que importan.
 
 Artículo 360°.- (Registro de comisionistas)En el registro de los comisionistas
 o intermediarios habituales en la compra y venta de vehículos accesorios y
 repuestos se consignará los datos siguientes:
-
-  1. Nombre completo.
-  2. Lugar de nacimiento.
-  3. Nacionalidad.
-  4. Edad.
-  5. Estado civil.
-  6. Profesión.
-  7. Numero de Cédula de Identidad.
-  8. Domicilio.
+1. Nombre completo.
+2. Lugar de nacimiento.
+3. Nacionalidad.
+4. Edad.
+5. Estado civil.
+6. Profesión.
+7. Numero de Cédula de Identidad.
+8. Domicilio.
 
 Artículo 361°.- (Registro de sociedades de transporte, talleres y otros)El
 registro de las sociedades de transporte estaciones de servicio, talleres de
 reparaciones o montaje, se efectuará haciendo constar los siguientes datos:
 Artículo 362°.- (Registro de propietarios de vehiculos)El registro de los
 propietarios de vehículos contendrá los siguientes datos:
-
-  1. Nombre completo.
-  2. Nacionalidad.
-  3. Lugar de nacimiento.
-  4. Edad.
-  5. Estado Civil.
-  6. Protección.
-  7. Número de cédula de identidad
-  8. Domicilio
-  9. Garaje.
+1. Nombre completo.
+2. Nacionalidad.
+3. Lugar de nacimiento.
+4. Edad.
+5. Estado Civil.
+6. Protección.
+7. Número de cédula de identidad
+8. Domicilio
+9. Garaje.
 
 Artículo 363°.- (Registro de conductores)El registro de los conductores de
 vehículos se efectuará consignando los mismos datos señalados por el artículo
 309 del presente Reglamento.
-
-  1. Nombre completo.
-  2. Nacionalidad.
-  3. Edad.
+1. Nombre completo.
+2. Nacionalidad.
+3. Edad.
 
 Artículo 364°.- (Registro de propietarios)Registro de los auxiliares del
 signará los datos siguientes:
-
-  1. Nombre completo del propietario.
-  2. Nombre completo del administrador o en su caso de la persona responsable.
-  3. Domicilio o dirección
-  4. Clase de servicio que presta.
-  5. Fecha de autorización para el funcionamiento del negocio y número de la
-     papeleta de servicios.
+1. Nombre completo del propietario.
+2. Nombre completo del administrador o en su caso de la persona responsable.
+3. Domicilio o dirección
+4. Clase de servicio que presta.
+5. Fecha de autorización para el funcionamiento del negocio y número de la
+    papeleta de servicios.
 
 Artículo 365°.- (Requisitos para la inscripcion de vehiculos)Los requisitos
 para la primera inscripción (inscripción original) del vehículo sea nuevo o
 usado, en el Departamento Nacional de Registro de Vehículos son los siguientes:
-
-  1. Póliza original de importación.
-  2. Factura comercial otorgada por la firma importadora.
-  3. Carta de aviso de venta expedida por la fin más importadora.
+1. Póliza original de importación.
+2. Factura comercial otorgada por la firma importadora.
+3. Carta de aviso de venta expedida por la fin más importadora.
 
 Artículo 366°.- (Registro de vehiculos adquiridos en el pais)El registro de los
 vehículos adquiridos en el país mediante compraventa o cualquier otro título
@@ -2187,44 +2090,42 @@ acredite el cumplimiento de los requisitos señalados por el artículo 352 de
 este Reglamento.
 Artículo 368°.- (Datos)El registro de los vehículos en general contendrá los
 siguientes datos:
-
-  1. Lugar de registro
-  2. Fecha de registro
-  3. Marca
-  4. Clase
-  5. Color
-  6. Modelo
-  7. Año
-  8. Número de motor
-  9. Número de Chasis
- 10. Medida de llanta
- 11. Capacidad de carga
- 12. Número de asientos
- 13. Capacidad de pasajeros
- 14. Potencia en HP
- 15. Kilometraje
- 16. Número de placa anterior
- 17. Clase de servicio que presta
- 18. Valor en $b.
- 19. Fecha en que comenzó a usarse accidentes que hubiera ocasionado el
-     vehículo.
- 20. Fecha de inscripción
- 21. Número de placa
- 22. Transformaciones o variaciones de las características técnicas del
-     vehículo.
- 23. Anotaciones preventivas, inscripciones, transferencias, gravámenes,
-     órdenes judiciales o de autoridad competente y limitaciones al derecho de
-     propiedad.
- 24. Los accidentes que hubiera ocasionado el vehículos.
+1. Lugar de registro
+2. Fecha de registro
+3. Marca
+4. Clase
+5. Color
+6. Modelo
+7. Año
+8. Número de motor
+9. Número de Chasis
+10. Medida de llanta
+11. Capacidad de carga
+12. Número de asientos
+13. Capacidad de pasajeros
+14. Potencia en HP
+15. Kilometraje
+16. Número de placa anterior
+17. Clase de servicio que presta
+18. Valor en $b.
+19. Fecha en que comenzó a usarse accidentes que hubiera ocasionado el
+    vehículo.
+20. Fecha de inscripción
+21. Número de placa
+22. Transformaciones o variaciones de las características técnicas del
+    vehículo.
+23. Anotaciones preventivas, inscripciones, transferencias, gravámenes,
+    órdenes judiciales o de autoridad competente y limitaciones al derecho de
+    propiedad.
+24. Los accidentes que hubiera ocasionado el vehículos.
 
 Artículo 369°.- (Registro de bicicletas)El registro de bicicletas es
 obligatorio y se efectuará consignando los siguientes datos:
-
-  1. Nombre completo y domicilio del propietario.
-  2. Documentos que acrediten el derecho de propiedad sobre el vehículo.
-  3. Características del vehículo.
-  4. Nombre y domicilio del padre o apoderado cuando el propietario es menor de
-     edad
+1. Nombre completo y domicilio del propietario.
+2. Documentos que acrediten el derecho de propiedad sobre el vehículo.
+3. Características del vehículo.
+4. Nombre y domicilio del padre o apoderado cuando el propietario es menor de
+    edad
 
 Artículo 370°.- (Desarmado de vehiculos)Ningún vehículo podrá desarmarse
 definitivamente para su venta por piezas o para su retiro de la circulación,
@@ -2233,22 +2134,20 @@ Departamento Nacional de Registro de Vehículos y de la Alcaldía Municipal.
 Artículo 371°.- (Requisitos para el registro de los vehiculos
 nacionalizados)Los requisitos para la inscripción de los vehículos
 nacionalizados son:
-
-  1. Copia fotostática de la Libreta Internacional de Paso por Aduana o Libreta
-     de Turismo.
-  2. Póliza o copia de la correspondiente Resolución por la que se dispone la
-     nacionalización del vehículo, expedida por la autoridad aduanera
-     competente.
-  3. Copia de la Nota de Cargo y el Comprobante de Caja de haberse pagado los
-     derechos e impuestos aduaneros.
-  4. Solicitud escrita en papel sellados timbres de Ley y firma de abogado,
-     dirigida al Director General del Tránsito en el Distrito de La Paz y a las
-     Jefaturas Departamentales en el interior del país.
+1. Copia fotostática de la Libreta Internacional de Paso por Aduana o Libreta
+    de Turismo.
+2. Póliza o copia de la correspondiente Resolución por la que se dispone la
+    nacionalización del vehículo, expedida por la autoridad aduanera
+    competente.
+3. Copia de la Nota de Cargo y el Comprobante de Caja de haberse pagado los
+    derechos e impuestos aduaneros.
+4. Solicitud escrita en papel sellados timbres de Ley y firma de abogado,
+    dirigida al Director General del Tránsito en el Distrito de La Paz y a las
+    Jefaturas Departamentales en el interior del país.
 
 
 Capítulo IX
 De las transferencias de vehículos
-
 Artículo 372°.- (Instrumento publico)La transferencia de vehículos mediante
 compra-venta, donación, sucesión hereditaria adjudicación judicial o cualquier
 otro título traslativo de dominio, únicamente podrá efectuarse en las
@@ -2298,395 +2197,389 @@ carnet de propiedad de la Alcaldía Municipal.
 
 Título VI
 De las faltas y sanciones
-
-
 Capítulo I
 De las infracciones y sanciones
-
 Artículo 380°.- (Infracciones de primer grado)Las siguientes infracciones son
 de PRIMER GRADO y serán sancionadas con:
-
-  1. Por la fuga y falta de asistencia a las víctimas en caso de accidente, con
-     inhabilitación del brevet o licencia hasta que se conozca el fallo
-     ejecutoriado de la justicia ordinaria sobre la responsabilidad y pena
-     impuesta al conductor de acuerdo al artículo 262 del Código Penal.
-  2. Por la agresión o faltamiento grave a la autoridad del Tránsito por parte
-     de los conductores, auxiliares, usuarios o peatones, con CINCO días de
-     arresto, sin perjuicio de la sanción que corresponda imponer a los
-     tribunales ordinarios de justicia.
-  3. Por conducir vehículos en estado de embriaguez ocasionada por haber
-     ingerido bebidas alcohólicas o bajo el efecto de drogas, narcóticos u
-     otros alucinantes: por la primera vez con CUATROCIENTOS PESOS BOLIVIANOS
-     ($b. 400.-) de multa; por la segunda vez con inhabilitación por UN AÑO y
-     por la tercera vez con suspensión definitiva. Si por conducir en estado de
-     embriaguez se ocasionare accidente a cuya consecuencia resultaran personas
-     muertas o gravemente lesionadas la sanción será de suspensión definitiva
-     del conductor.
-  4. Por conducir vehículos sin tener brevet, licencia, ni autorización con
-     CINCO DIAS DE ARRESTO.
-  5. Por confiar o permitir la conducción de su vehículo a persona que no tenga
-     brevet ni autorización, con TRESCIENTOS PESOS BOLIVIANOS, ($b. 300.-) de
-     multa al propietario del vehículo.
-  6. Por alterar o falsificar el brevet, licencia o autorización para conducir,
-     con CINCO DIAS de arresto, sin perjuicio de la sanción penal que
-     corresponda imponer a los tribunales de justicia.
-  7. Por usar placas alteradas o que no correspondan al vehículo, con
-     QUINIENTOS PESOS BOLIVIANOS ($b. 500.-) de multa y decomiso de las placas.
-  8. Por atropellar o violar trancas o puertas de control de la Policía del
-     Tránsito, con CINCO DIAS de arresto.
-  9. Por no presentar informe a la Policía del Tránsito en caso de accidente,
-     con DOSCIENTOS PESOS BOLIVIANOS ($b. 200.-) de multa.
- 10. Por conducir vehículo con licencia o brevet inhabilitado o caduco con
-     CINCO DIAS de arresto.
- 11. Por circular con un vehículo sin luces, con CIEN PESOS BOLIVIANOS ($b.
-     100.-) de multa.
- 12. Por circular con un vehículo sin placas, con CIEN PESOS BOLIVIANOS ($b.
-     100.-) de multa.
- 13. Por el exceso en el transporte de pasajeros o carga, con DOSCIENTOS PESOS
-     BOLIVIANOS ($b. 200.-) de multa.
- 14. Por circular con exceso de velocidad, con DOSCIENTOS PESOS BOLIVIANOS ($b.
-     200.-) de multa.
- 15. Por encandilar en los cruces, con QUINIENTOS PESOS BOLIVIANOS ($b. 500.-
-     ) . de multa.
- 16. Por circular contra ruta señalizada con CIEN PESOS BOLIVIANOS ($b. 100.-
-     ) de multa.
- 17. Por estacionar o detener el vehículo en la carretera en forma que haga
-     peligroso el tránsito, con CUATROCIENTOS PESOS BOLIVIANOS ($b. 400.-) dé
-     multa.
- 18. Por no colocar señales reglamentarias en los casos de estacionamiento o
-     detención obligada en plena carretera en caso de accidentes u otras
-     circunstancias de fuerza mayor con CUATROCIENTOS PESOS BOLIVIA NOS ($b.
-     400.-) de multa.
- 19. Por omitir las señales reglamentarias en el caso de transporte de cargas
-     peligrosas, con DOSCIENTOS PESOS BOLIVANOS ($b. 200.-) de multa.
- 20. Por instigar maliciosamente a la destrucción de vehículos, con DOSCIENTOS
-     PESOS BOLIVIANOS ($b. 200.-) de multa y la reparación de los daños.
- 21. Por la agresión al conductor auxiliares por parte de los usuarios o
-     peatones o de aquellos a éstos, con TRES DIAS de arresto.
- 22. Por ocasionar daños o deterioros a los vehículos por parte de los usuarios
-     o peatones, con CIEN PESOS BOLIVIANOS ($b. 100.-) de multa y la reparación
-     del daño causado.
- 23. Por destruir, sustraer o modificar el significado de las señales oficiales
-     del Tránsito, con TRESCIENTOS PESOS BOLIVIANOS ($b. 300.-) de multa y
-     reposición de las señaladas a costa del autor.
- 24. Por recabar hoja de ruta a su nombre y entregarla a otra persona para la
-     conducción del vehículo, con TRESCIENTOS PESOS BOLIVIANOS ($b. 300.-) de
-     multa.
- 25. Por efectuar actos de acrobacia en motocicletas en plena vía pública, con
-     TRES CIENTOS PESOS BOLIVIANOS ($b. 300.-) de multa.
- 26. Por pasar un cruce ferroviario sin detener el vehículo y comprobar
-     previamente que no existe peligro, con TRESCIENTOS PESOS BOLIVIANOS ($b.
-     300.-) . de multa.
- 27. Por bajar el peatón a la calzada a plena carrera, en forma descuidada o
-     imprevista y con peligro para la circulación con TRES DIAS de arresto.
- 28. Por llevar pasajeros o permitirlos transporte cargas peligrosas con
-     CUATROCIENTOS PESOS BOLIVIANOS (Bs. 400.-) de multa.
- 29. Por contratar como a choferes a personas no autorizadas legalmente para
-     conducir vehículos, con CUATROCIENTOS PESOS BOLIVIANOS (Bs. 400.- de
-     multa.
- 30. Por entablar competencias de velocidad, ya sea dentro o fuera del radio
-     urbanos, con el objeto de disputarse los pasajeros, con DOSIENTOS PESOS
-     BOLIVIANOS (Bs. 200.-) de multa.
- 31. Por permitir el transporte de sustancias inflamables o explosivos en los
-     vehículos de transporte colectivo de pasajeros con TRESCIENTOS PESOS
-     BOLIVIANOS (Bs. 300.-) de multa.
- 32. Por no llevar chófer de relevo en los servicios de transporte de pasajeros
-     cuyo recorrido sea superior a los 300 kilómetros, con CUATROCIENTOS PESOS
-     BOLIVIANOS Bs. 300.-) de multa.
- 33. Por facilitar o prestar su Brevet, Licencia o autorización a otra persona
-     para la conducción de vehículos, con INHABILTACION POR UN AÑO.
- 34. Por ocasionar accidentes dolosos o culposos graves, con inhabilitación
-     temporal del conductor mientras se conozca el pronunciamiento de la
-     justicia ordinaria al respecto.
- 35. Por contratar como a choferes a personas no autorizadas legalmente para
-     conducir vehículos, con CUATROCIENTOS PESOS BOLIVIANOS ($b. 400.-) de
-     multa.
- 36. Por entablar competencias de velocidad, ya sea dentro o fuera del radio
-     urbano, con el objeto de disputarse los pasajeros, con DOSCIENTOS PESOS
-     BOLIVIANOS ($b. 200.-) de multa.
- 37. Por permitir el transporte de sustancias inflamables o explosivos en los
-     vehículos de transporte colectivo de pasajeros con TRESCIENTOS PESOS
-     BOLIVIANOS ($b. 300.-) de multa.
- 38. Por no llevar chófer de relevo en los servicios de transporte de pasajeros
-     cuyo recorrido sea superior a los 300 kilómetros, con CUATROCIENTOS PESOS
-     BOLIVIANOS $b. 400.-) de multa.
- 39. Por facilitar o prestar su Brevet, Licencia o autorización a otra persona
-     para la conducción.
- 40. Por permitir deliberadamente que su vehículo sea utilizado con fines
-     delictivos, con QUINIENTOS PESOS BOLIVIANOS ($b 500.-) de multa, sin
-     perjuicio de las sanciones que corresponda imponer a los tribunales de
-     justicia.
- 41. Por no detenerse y omitir el socorro y ayuda, el conductor de un vehículo
-     al conductor de otro vehículo accidentado, con CINCO DIAS de arresto, sin
-     perjuicio de la sanción prevista por el artículo 262 del Código Penal.
- 42. Por ocasionar con su vehículo la destrucción de postes del alumbrado,
-     jardines o árboles del ornato público, con QUINIENTOS PESOS BOLIVIANOS
-     ($b. 500.-) de multa, salvo casos fortuitos y la reparación del daño.
- 43. Por no ceder injustificadamente el paso a los vehículos de la Policía,
-     Bomberos y Ambulancias, cuando estos anuncian su situación de emergencia
-     mediante drenas u otros dispositivos especiales, con DOSCIENTOS PESOS
-     BOLIVIANOS ($b. 200.-) de multa.
- 44. Por no ceder el paso al vehículo del señor Presidente de la Nación, con
-     QUINIENTOS PESOS BOLIVIANOS ($b. 500.-) de multa.
- 45. Por estacionar en lugares prohibidos o de reservación oficial, con
-     DOSCIENTOS PESOS BOLIVIANOS ($b. 200.-) de multa.
+1. Por la fuga y falta de asistencia a las víctimas en caso de accidente, con
+    inhabilitación del brevet o licencia hasta que se conozca el fallo
+    ejecutoriado de la justicia ordinaria sobre la responsabilidad y pena
+    impuesta al conductor de acuerdo al artículo 262 del Código Penal.
+2. Por la agresión o faltamiento grave a la autoridad del Tránsito por parte
+    de los conductores, auxiliares, usuarios o peatones, con CINCO días de
+    arresto, sin perjuicio de la sanción que corresponda imponer a los
+    tribunales ordinarios de justicia.
+3. Por conducir vehículos en estado de embriaguez ocasionada por haber
+    ingerido bebidas alcohólicas o bajo el efecto de drogas, narcóticos u
+    otros alucinantes: por la primera vez con CUATROCIENTOS PESOS BOLIVIANOS
+    ($b. 400.-) de multa; por la segunda vez con inhabilitación por UN AÑO y
+    por la tercera vez con suspensión definitiva. Si por conducir en estado de
+    embriaguez se ocasionare accidente a cuya consecuencia resultaran personas
+    muertas o gravemente lesionadas la sanción será de suspensión definitiva
+    del conductor.
+4. Por conducir vehículos sin tener brevet, licencia, ni autorización con
+    CINCO DIAS DE ARRESTO.
+5. Por confiar o permitir la conducción de su vehículo a persona que no tenga
+    brevet ni autorización, con TRESCIENTOS PESOS BOLIVIANOS, ($b. 300.-) de
+    multa al propietario del vehículo.
+6. Por alterar o falsificar el brevet, licencia o autorización para conducir,
+    con CINCO DIAS de arresto, sin perjuicio de la sanción penal que
+    corresponda imponer a los tribunales de justicia.
+7. Por usar placas alteradas o que no correspondan al vehículo, con
+    QUINIENTOS PESOS BOLIVIANOS ($b. 500.-) de multa y decomiso de las placas.
+8. Por atropellar o violar trancas o puertas de control de la Policía del
+    Tránsito, con CINCO DIAS de arresto.
+9. Por no presentar informe a la Policía del Tránsito en caso de accidente,
+    con DOSCIENTOS PESOS BOLIVIANOS ($b. 200.-) de multa.
+10. Por conducir vehículo con licencia o brevet inhabilitado o caduco con
+    CINCO DIAS de arresto.
+11. Por circular con un vehículo sin luces, con CIEN PESOS BOLIVIANOS ($b.
+    100.-) de multa.
+12. Por circular con un vehículo sin placas, con CIEN PESOS BOLIVIANOS ($b.
+    100.-) de multa.
+13. Por el exceso en el transporte de pasajeros o carga, con DOSCIENTOS PESOS
+    BOLIVIANOS ($b. 200.-) de multa.
+14. Por circular con exceso de velocidad, con DOSCIENTOS PESOS BOLIVIANOS ($b.
+    200.-) de multa.
+15. Por encandilar en los cruces, con QUINIENTOS PESOS BOLIVIANOS ($b. 500.-
+    ) . de multa.
+16. Por circular contra ruta señalizada con CIEN PESOS BOLIVIANOS ($b. 100.-
+    ) de multa.
+17. Por estacionar o detener el vehículo en la carretera en forma que haga
+    peligroso el tránsito, con CUATROCIENTOS PESOS BOLIVIANOS ($b. 400.-) dé
+    multa.
+18. Por no colocar señales reglamentarias en los casos de estacionamiento o
+    detención obligada en plena carretera en caso de accidentes u otras
+    circunstancias de fuerza mayor con CUATROCIENTOS PESOS BOLIVIA NOS ($b.
+    400.-) de multa.
+19. Por omitir las señales reglamentarias en el caso de transporte de cargas
+    peligrosas, con DOSCIENTOS PESOS BOLIVANOS ($b. 200.-) de multa.
+20. Por instigar maliciosamente a la destrucción de vehículos, con DOSCIENTOS
+    PESOS BOLIVIANOS ($b. 200.-) de multa y la reparación de los daños.
+21. Por la agresión al conductor auxiliares por parte de los usuarios o
+    peatones o de aquellos a éstos, con TRES DIAS de arresto.
+22. Por ocasionar daños o deterioros a los vehículos por parte de los usuarios
+    o peatones, con CIEN PESOS BOLIVIANOS ($b. 100.-) de multa y la reparación
+    del daño causado.
+23. Por destruir, sustraer o modificar el significado de las señales oficiales
+    del Tránsito, con TRESCIENTOS PESOS BOLIVIANOS ($b. 300.-) de multa y
+    reposición de las señaladas a costa del autor.
+24. Por recabar hoja de ruta a su nombre y entregarla a otra persona para la
+    conducción del vehículo, con TRESCIENTOS PESOS BOLIVIANOS ($b. 300.-) de
+    multa.
+25. Por efectuar actos de acrobacia en motocicletas en plena vía pública, con
+    TRES CIENTOS PESOS BOLIVIANOS ($b. 300.-) de multa.
+26. Por pasar un cruce ferroviario sin detener el vehículo y comprobar
+    previamente que no existe peligro, con TRESCIENTOS PESOS BOLIVIANOS ($b.
+    300.-) . de multa.
+27. Por bajar el peatón a la calzada a plena carrera, en forma descuidada o
+    imprevista y con peligro para la circulación con TRES DIAS de arresto.
+28. Por llevar pasajeros o permitirlos transporte cargas peligrosas con
+    CUATROCIENTOS PESOS BOLIVIANOS (Bs. 400.-) de multa.
+29. Por contratar como a choferes a personas no autorizadas legalmente para
+    conducir vehículos, con CUATROCIENTOS PESOS BOLIVIANOS (Bs. 400.- de
+    multa.
+30. Por entablar competencias de velocidad, ya sea dentro o fuera del radio
+    urbanos, con el objeto de disputarse los pasajeros, con DOSIENTOS PESOS
+    BOLIVIANOS (Bs. 200.-) de multa.
+31. Por permitir el transporte de sustancias inflamables o explosivos en los
+    vehículos de transporte colectivo de pasajeros con TRESCIENTOS PESOS
+    BOLIVIANOS (Bs. 300.-) de multa.
+32. Por no llevar chófer de relevo en los servicios de transporte de pasajeros
+    cuyo recorrido sea superior a los 300 kilómetros, con CUATROCIENTOS PESOS
+    BOLIVIANOS Bs. 300.-) de multa.
+33. Por facilitar o prestar su Brevet, Licencia o autorización a otra persona
+    para la conducción de vehículos, con INHABILTACION POR UN AÑO.
+34. Por ocasionar accidentes dolosos o culposos graves, con inhabilitación
+    temporal del conductor mientras se conozca el pronunciamiento de la
+    justicia ordinaria al respecto.
+35. Por contratar como a choferes a personas no autorizadas legalmente para
+    conducir vehículos, con CUATROCIENTOS PESOS BOLIVIANOS ($b. 400.-) de
+    multa.
+36. Por entablar competencias de velocidad, ya sea dentro o fuera del radio
+    urbano, con el objeto de disputarse los pasajeros, con DOSCIENTOS PESOS
+    BOLIVIANOS ($b. 200.-) de multa.
+37. Por permitir el transporte de sustancias inflamables o explosivos en los
+    vehículos de transporte colectivo de pasajeros con TRESCIENTOS PESOS
+    BOLIVIANOS ($b. 300.-) de multa.
+38. Por no llevar chófer de relevo en los servicios de transporte de pasajeros
+    cuyo recorrido sea superior a los 300 kilómetros, con CUATROCIENTOS PESOS
+    BOLIVIANOS $b. 400.-) de multa.
+39. Por facilitar o prestar su Brevet, Licencia o autorización a otra persona
+    para la conducción.
+40. Por permitir deliberadamente que su vehículo sea utilizado con fines
+    delictivos, con QUINIENTOS PESOS BOLIVIANOS ($b 500.-) de multa, sin
+    perjuicio de las sanciones que corresponda imponer a los tribunales de
+    justicia.
+41. Por no detenerse y omitir el socorro y ayuda, el conductor de un vehículo
+    al conductor de otro vehículo accidentado, con CINCO DIAS de arresto, sin
+    perjuicio de la sanción prevista por el artículo 262 del Código Penal.
+42. Por ocasionar con su vehículo la destrucción de postes del alumbrado,
+    jardines o árboles del ornato público, con QUINIENTOS PESOS BOLIVIANOS
+    ($b. 500.-) de multa, salvo casos fortuitos y la reparación del daño.
+43. Por no ceder injustificadamente el paso a los vehículos de la Policía,
+    Bomberos y Ambulancias, cuando estos anuncian su situación de emergencia
+    mediante drenas u otros dispositivos especiales, con DOSCIENTOS PESOS
+    BOLIVIANOS ($b. 200.-) de multa.
+44. Por no ceder el paso al vehículo del señor Presidente de la Nación, con
+    QUINIENTOS PESOS BOLIVIANOS ($b. 500.-) de multa.
+45. Por estacionar en lugares prohibidos o de reservación oficial, con
+    DOSCIENTOS PESOS BOLIVIANOS ($b. 200.-) de multa.
 
 Artículo 381°.- (Infracciones de segundo grado)Las siguientes infracciones son
 de SEGUNDO GRADO y serán sancionados con:
-
-  1. Por viajar sin equipo, herramientas, señales de emergencia e implementos
-     de auxilio con CIEN PESOS BOLIVIANOS ($b. 100.-) de multa.
-  2. Por utilizar el vehículo en uso distinto al que se halla destinado, con
-     CINCUENTA PESOS BOLIVIANOS ($B. 50.- ) de multa.
-  3. Por no elevar a la Policía del Tránsito los informes y partes a que están
-     obligados los dueños de talleres de reparación o montaje de vehículos,
-     estaciones de servicio, casas importadoras, garajes y negocios de compra y
-     venta de vehículos, repuestos o accesorios, con CIEN PESOS BOLIVIANOS ($b.
-     100.-) de multa.
-  4. Por instalar y poner en funcionamiento talleres de reparación o montaje de
-     vehículos, garajes, estaciones de servicio o negocios de compra y venta de
-     vehículos, repuestos o accesorios, sin previa autorización e inscripción
-     en el Registro del Tránsito, con CIEN PESOS BOLIVIANOS ($b. 100.-) de
-     multa.
-  5. Por conducir vehículos durante la noche con un sólo farol encendido o por
-     no usar las luces de reglamento, con CINCUENTA PESOS BOLIVIANOS ($b. 50.-
-     ) de multa.
-  6. Por faltamiento del conductor o sus auxiliares a los usuarios o de éstos a
-     aquéllos, con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de multa.
-  7. Por negarse a exhibir el brevet, licencia o autorización de conductor a la
-     autoridad del Tránsito, con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de
-     multa.
-  8. Por cobro de tarifas o fletes no autorizados con CINCUENTA PESOS
-     BOLIVIANOS ($b. 50.-) de multa.
-  9. Por no observar las señales de tránsito, con CINCUENTA PESOS BOLIVIANOS
-     ($b. 50.-) de multa.
- 10. Por ocasionar los conductores la destrucción o causar daños en los bienes
-     públicos o privados con CIEN PESOS BOLIVIANOS ($b. 100.-) de multa y la
-     reparación del daño, exceptuándose el pago de la multa en caso de
-     accidentes fortuitos.
- 11. Por conducir vehículo con autorización caduca, con CIEN PESOS BOLIVIANOS
-     ($b. 100.-) de multa.
- 12. Por incumplimiento del compromiso contraído ante la autoridad, con CIEN
-     PESOS BOLIVIANOS ($b. 100.-) de multa.
- 13. Por abandonar la carga en la acera o calzada, con CINCUENTA PESOS
-     BOLIVIANOS ($b. 50.-) de multa.
- 14. Por no presentarse a las inspecciones de vehículos en los períodos
-     señalados por la Policía del Tránsito, con CIEN PESOS BOLIVIANOS ($b.
-     100.-) de multa salvo causal justificada mediante solicitud escrita
-     dirigida a la Jefatura Departamental del Tránsito.
- 15. Por recoger o dejar pasajeros en medio de la calzada, con CINCUENTA PESOS
-     BOLIVIANOS ($b. 50.-) de multa.
- 16. Por cruzar el peatón de una acera a otra por lugar distinto a la franja de
-     seguridad, CON UN DIA de arresto.
- 17. Por desobedecer el peatón las señales de los dispositivos reguladores del
-     tránsito, con UN DIA de arresto.
- 18. Por circular los peatones en las vías públicas en manifiesto estado de
-     embriaguez y con peligro para la seguridad del tránsito, con DOS DIAS de
-     arresto.
- 19. Por subir o bajar los pasajeros de los vehículos en movimiento, con UN DIA
-     de arresto.
- 20. Por obstruir o impedir, los peatones o usuarios la libre circulación de
-     los vehículos, con UN DíA de arresto.
- 21. Por desacato a la autoridad por parte de los conductores, usuarios o
-     peatones, con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de multa.
- 22. Por abandono de los vehículos en la vía pública durante un tiempo mayor a
-     las 48 horas, con CIEN PESOS BOLIVIANOS ($b. 100.-) de multa.
- 23. Por circular con el vehículo en malas condiciones de funcionamiento, con
-     CIEN PESOS BOLIVIANOS ($b. 100.-) de multa.
- 24. Por falta de cumplimiento de cualquiera de las reglas establecidas para el
-     adelantamiento de un vehículo a otro con CINCUENTA PESOS BOLIVIANOS ($b.
-     50.-) de multa.
- 25. Por no mantener la distancia reglamentaria cuando los vehículos circulan
-     en caravana con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de multa.
- 26. Por efectuar maniobra en "zigzag" o por circular describiendo "eses" sea
-     en las zonas urbanas o rurales, con CINCUENTA PESOS BOLIVIANOS ($b. 50.-
-     ) de multa.
- 27. Por retroceder con su vehículo en las vías urbanas, salvo cuando esta
-     maniobra sea absolutamente necesaria, con CINCUENTA PESOS BOLIVIANOS ($b.
-     50.-) de multa.
- 28. Por detener el vehículo en plena bocacalle o sobre la franja de seguridad,
-     obstruyendo el paso de los peatones, con CINCUENTA PESOS BOLIVIANOS ($b.
-     50.-) de multa.
- 29. Por no tener en funcionamiento las luces de estacionamiento blancas o
-     amarillas en la parte delantera y rojas en la parte trasera del vehículo,
-     con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de multa.
- 30. Por proseguir la marcha cuando los pasajeros están bajando o subiendo al
-     vehículo con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de multa.
- 31. Por circular con el vehículo desembragado, con la caja de cambios colocada
-     en neutro o con el motor apagado, con CIEN PESOS BOLIVIANOS ($b. 100.-) de
-     multa.
- 32. Por llevar los motociclistas mayor número de personas que el permitido
-     según la capacidad de fabricación del vehículo, con CIEN PESOS BOLIVIANOS
-     ($b. 100.-) de multa.
- 33. Por circular los motociclistas o ciclistas en sus vehículos tomados de la
-     mano o acopiados o agarrados a otros vehículos, con CIEN PESOS BOLIVIANOS
-     ($b. 100.-) de multa.
- 34. Por no reducir la velocidad en las bocacalles, lugares de aglomeración de
-     personas o vehículos o en los sitios donde haya peligro para la
-     circulación con CIEN PESOS BOLIVIANOS ($b. 100.-) de multa.
- 35. Por colocar señales, signos, demarcaciones o dispositivos semejantes a los
-     que oficialmente se usan, con CIEN PESOS BOLIVIANOS ($b. 100.-) de multa.
- 36. Por no colocar las señales de peligro en los lugares donde se realizan
-     obras de construcción o reparación de las vías públicas, con DOSCIENTOS
-     PESOS BOLIVIANOS ($b 200.-) de multa a la empresa, encargado o propietario
-     de la construcción.
- 37. Por no detener la marcha del vehículo cuan do se encuentre atravesando la
-     vía un niño, no vidente o inválido, con CIEN PESOS BOLIVIANOS ($b. 100.-
-     ) de multa.
- 38. Por no guardar los conductores o los pasajeros de los vehículos de
-     servicio público ]a educación y compostura debidas, con CINCUENTA PESOS
-     BOLIVIANOS ($b. 50.-) de multa.
- 39. Por transportar cadáveres o enfermos infecto-contagiosos en los vehículos
-     de servicio público, con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de multa.
- 40. Por dejar abandonados a los pasajeros sin causal justificada, con CIEN
-     PESOS BOLIVIANOS ($b. 100.-) de multa.
- 41. Por negarse a transportar estudiantes o escolares mediante el pago de la
-     tarifa establecida con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de multa.
- 42. Por negarse a transportar funcionarios policiales de Tránsito con CIEN
-     PESOS BOLIVIANOS ($b. 100.-) de multa.
- 43. Por distraerse peligrosamente al conducir un vehículo, con CIEN PESOS
-     BOLIVIANOS ($b. 100.-) de multa.
- 44. Por proseguir la marcha del vehículo cuando el semáforo señala luz roja,
-     con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de multa.
- 45. Por instigar o permitir los pasajeros o expendedores de bebidas a que los
-     choferes que deben conducir sus vehículos ingieran bebidas alcohólicass
-     con CINCO DIAS de arresto.
- 46. Por circular con luz roja en la parte delantera o luz blanca en la parte
-     trasera del vehículo, con CIEN PESOS BOLIVIANOS ($b. 100.-) de multa.
- 47. Por conducir con manifiesto descuido y con menosprecio de los derechos a
-     la seguridad de los demás, con CIEN PESOS BOLIVIANOS ($b. 100.-) de multa.
+1. Por viajar sin equipo, herramientas, señales de emergencia e implementos
+    de auxilio con CIEN PESOS BOLIVIANOS ($b. 100.-) de multa.
+2. Por utilizar el vehículo en uso distinto al que se halla destinado, con
+    CINCUENTA PESOS BOLIVIANOS ($B. 50.- ) de multa.
+3. Por no elevar a la Policía del Tránsito los informes y partes a que están
+    obligados los dueños de talleres de reparación o montaje de vehículos,
+    estaciones de servicio, casas importadoras, garajes y negocios de compra y
+    venta de vehículos, repuestos o accesorios, con CIEN PESOS BOLIVIANOS ($b.
+    100.-) de multa.
+4. Por instalar y poner en funcionamiento talleres de reparación o montaje de
+    vehículos, garajes, estaciones de servicio o negocios de compra y venta de
+    vehículos, repuestos o accesorios, sin previa autorización e inscripción
+    en el Registro del Tránsito, con CIEN PESOS BOLIVIANOS ($b. 100.-) de
+    multa.
+5. Por conducir vehículos durante la noche con un sólo farol encendido o por
+    no usar las luces de reglamento, con CINCUENTA PESOS BOLIVIANOS ($b. 50.-
+    ) de multa.
+6. Por faltamiento del conductor o sus auxiliares a los usuarios o de éstos a
+    aquéllos, con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de multa.
+7. Por negarse a exhibir el brevet, licencia o autorización de conductor a la
+    autoridad del Tránsito, con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de
+    multa.
+8. Por cobro de tarifas o fletes no autorizados con CINCUENTA PESOS
+    BOLIVIANOS ($b. 50.-) de multa.
+9. Por no observar las señales de tránsito, con CINCUENTA PESOS BOLIVIANOS
+    ($b. 50.-) de multa.
+10. Por ocasionar los conductores la destrucción o causar daños en los bienes
+    públicos o privados con CIEN PESOS BOLIVIANOS ($b. 100.-) de multa y la
+    reparación del daño, exceptuándose el pago de la multa en caso de
+    accidentes fortuitos.
+11. Por conducir vehículo con autorización caduca, con CIEN PESOS BOLIVIANOS
+    ($b. 100.-) de multa.
+12. Por incumplimiento del compromiso contraído ante la autoridad, con CIEN
+    PESOS BOLIVIANOS ($b. 100.-) de multa.
+13. Por abandonar la carga en la acera o calzada, con CINCUENTA PESOS
+    BOLIVIANOS ($b. 50.-) de multa.
+14. Por no presentarse a las inspecciones de vehículos en los períodos
+    señalados por la Policía del Tránsito, con CIEN PESOS BOLIVIANOS ($b.
+    100.-) de multa salvo causal justificada mediante solicitud escrita
+    dirigida a la Jefatura Departamental del Tránsito.
+15. Por recoger o dejar pasajeros en medio de la calzada, con CINCUENTA PESOS
+    BOLIVIANOS ($b. 50.-) de multa.
+16. Por cruzar el peatón de una acera a otra por lugar distinto a la franja de
+    seguridad, CON UN DIA de arresto.
+17. Por desobedecer el peatón las señales de los dispositivos reguladores del
+    tránsito, con UN DIA de arresto.
+18. Por circular los peatones en las vías públicas en manifiesto estado de
+    embriaguez y con peligro para la seguridad del tránsito, con DOS DIAS de
+    arresto.
+19. Por subir o bajar los pasajeros de los vehículos en movimiento, con UN DIA
+    de arresto.
+20. Por obstruir o impedir, los peatones o usuarios la libre circulación de
+    los vehículos, con UN DíA de arresto.
+21. Por desacato a la autoridad por parte de los conductores, usuarios o
+    peatones, con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de multa.
+22. Por abandono de los vehículos en la vía pública durante un tiempo mayor a
+    las 48 horas, con CIEN PESOS BOLIVIANOS ($b. 100.-) de multa.
+23. Por circular con el vehículo en malas condiciones de funcionamiento, con
+    CIEN PESOS BOLIVIANOS ($b. 100.-) de multa.
+24. Por falta de cumplimiento de cualquiera de las reglas establecidas para el
+    adelantamiento de un vehículo a otro con CINCUENTA PESOS BOLIVIANOS ($b.
+    50.-) de multa.
+25. Por no mantener la distancia reglamentaria cuando los vehículos circulan
+    en caravana con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de multa.
+26. Por efectuar maniobra en "zigzag" o por circular describiendo "eses" sea
+    en las zonas urbanas o rurales, con CINCUENTA PESOS BOLIVIANOS ($b. 50.-
+    ) de multa.
+27. Por retroceder con su vehículo en las vías urbanas, salvo cuando esta
+    maniobra sea absolutamente necesaria, con CINCUENTA PESOS BOLIVIANOS ($b.
+    50.-) de multa.
+28. Por detener el vehículo en plena bocacalle o sobre la franja de seguridad,
+    obstruyendo el paso de los peatones, con CINCUENTA PESOS BOLIVIANOS ($b.
+    50.-) de multa.
+29. Por no tener en funcionamiento las luces de estacionamiento blancas o
+    amarillas en la parte delantera y rojas en la parte trasera del vehículo,
+    con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de multa.
+30. Por proseguir la marcha cuando los pasajeros están bajando o subiendo al
+    vehículo con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de multa.
+31. Por circular con el vehículo desembragado, con la caja de cambios colocada
+    en neutro o con el motor apagado, con CIEN PESOS BOLIVIANOS ($b. 100.-) de
+    multa.
+32. Por llevar los motociclistas mayor número de personas que el permitido
+    según la capacidad de fabricación del vehículo, con CIEN PESOS BOLIVIANOS
+    ($b. 100.-) de multa.
+33. Por circular los motociclistas o ciclistas en sus vehículos tomados de la
+    mano o acopiados o agarrados a otros vehículos, con CIEN PESOS BOLIVIANOS
+    ($b. 100.-) de multa.
+34. Por no reducir la velocidad en las bocacalles, lugares de aglomeración de
+    personas o vehículos o en los sitios donde haya peligro para la
+    circulación con CIEN PESOS BOLIVIANOS ($b. 100.-) de multa.
+35. Por colocar señales, signos, demarcaciones o dispositivos semejantes a los
+    que oficialmente se usan, con CIEN PESOS BOLIVIANOS ($b. 100.-) de multa.
+36. Por no colocar las señales de peligro en los lugares donde se realizan
+    obras de construcción o reparación de las vías públicas, con DOSCIENTOS
+    PESOS BOLIVIANOS ($b 200.-) de multa a la empresa, encargado o propietario
+    de la construcción.
+37. Por no detener la marcha del vehículo cuan do se encuentre atravesando la
+    vía un niño, no vidente o inválido, con CIEN PESOS BOLIVIANOS ($b. 100.-
+    ) de multa.
+38. Por no guardar los conductores o los pasajeros de los vehículos de
+    servicio público ]a educación y compostura debidas, con CINCUENTA PESOS
+    BOLIVIANOS ($b. 50.-) de multa.
+39. Por transportar cadáveres o enfermos infecto-contagiosos en los vehículos
+    de servicio público, con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de multa.
+40. Por dejar abandonados a los pasajeros sin causal justificada, con CIEN
+    PESOS BOLIVIANOS ($b. 100.-) de multa.
+41. Por negarse a transportar estudiantes o escolares mediante el pago de la
+    tarifa establecida con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de multa.
+42. Por negarse a transportar funcionarios policiales de Tránsito con CIEN
+    PESOS BOLIVIANOS ($b. 100.-) de multa.
+43. Por distraerse peligrosamente al conducir un vehículo, con CIEN PESOS
+    BOLIVIANOS ($b. 100.-) de multa.
+44. Por proseguir la marcha del vehículo cuando el semáforo señala luz roja,
+    con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de multa.
+45. Por instigar o permitir los pasajeros o expendedores de bebidas a que los
+    choferes que deben conducir sus vehículos ingieran bebidas alcohólicass
+    con CINCO DIAS de arresto.
+46. Por circular con luz roja en la parte delantera o luz blanca en la parte
+    trasera del vehículo, con CIEN PESOS BOLIVIANOS ($b. 100.-) de multa.
+47. Por conducir con manifiesto descuido y con menosprecio de los derechos a
+    la seguridad de los demás, con CIEN PESOS BOLIVIANOS ($b. 100.-) de multa.
 
 Artículo 382°.- (Infracciones de tercer grado)Las siguientes infracciones son
 de TERCER GRADO y serán sancionadas con:
-
-  1. Por negarse sin causal justificada a llevar pasajeros, con VEINTE PESOS
-     BOLIVIANOS ($b. 20.-) de multa.
-  2. Por impedir u obstruir el tránsito sin causal justificada, con TREINTA
-     PESOS BOLIVIANOS ($b. 20.-) de multa.
-  3. Por circular por una vía de tránsito suspendido, con TREINTA PESOS
-     BOLIVIANOS ($b. 30.-) de multa.
-  4. Por estacionar incorrectamente en vías urbanas con VEINTE PESOS BOLIVIANOS
-     ($b. 20.-) de multa.
-  5. Por circular con escape libre dentro de las ciudades, con TREINTA PESOS
-     BOLIVIANOS ($b. 30.-) de multa.
-  6. Por usar sirenas, vibradores, u otros aparatos que produzcan sonido agudo,
-     múltiple y prolongado, con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de multa.
-  7. Por usar la bocina en forma indebida en horas del día con VEINTE PESOS
-     BOLIVIANOS ($b. 20.-) de multa.
-  8. Por colocar inscripciones o figuras que dificulten la identificación del
-     vehículo, con TREINTA PESOS BOLIVIANOS ($b. 30.-) de multa.
-  9. Por usar o colocar en los vehículos inscripciones o figuras que atenten
-     contra la moral pública, con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de
-     multa.
- 10. Por no marcar en el vehículo de modo visible la capacidad de carga, de
-     pasajeros y números laterales, con TREINTA PESOS BOLIVIANOS ($b. 30.-) de
-     multa.
- 11. Por realizar maniobras prohibidas por el Código_de_Tránsito y su
-     Reglamento, salvo casos de emergencia, con VEINTE PESOS BOLIVIANOS ($b.
-     20.-) de multa.
- 12. Por ejercer labores de auxiliar del conductor sin previo registro, con
-     VEINTE PESOS BOLIVIANOS ($b. 20.-) de multa.
- 13. Por conducir vehículos sin portar la licencia brevet o autorización, con
-     VEINTE PESOS BOLIVIANOS ($b. 20.-) de multa.
- 14. Por conversar o distraer el pasajero al conductor de un vehículo de
-     servicio colectivo de pasajeros que está en marcha, con VEINTE PESOS
-     BOLIVIANOS ($b. 20.-) de multa.
- 15. Por negarse injustificadamente el usuario a cancelar la tarifa,
-     establecida, con VEINTE PESOS BOLIVIANOS ($b. 20.-) de multa.
- 16. Por obstaculizar el tránsito vehicular circulando a una velocidad
-     demasiado lenta, con TREINTA PESOS BOLIVIANOS ($b. 30.-) de multa
- 17. Por circular en las vías de doble sentido sobrepasando el eje central
-     demarcado o imaginario de la calzada, con VEINTE PESOS BOLIVIANOS ($b.
-     20.-) de multa.
- 18. Por salir del carril demarcado en los lugares prohibidos sin tomar las
-     precauciones necesarias, con TREINTA PESOS BOLIVIANOS ($b. 30.-) de multa.
- 19. Por cambiar de carril haciéndolo en forma imprudente y directamente hasta
-     un tercero, con TREINTA PESOS BOLIVIANOS ($b. 30.-) de multa.
- 20. Por salir de un garaje o lugar de estacionamiento a la vía pública sin las
-     precauciones necesarias; con TREINTA PESOS BOLIVIANOS ($b. 30.-) de multa.
- 21. Por conducir sin precaución en los lugares donde existan charcos de agua o
-     de otras sustancias ocasionando daños a las personas o cosas, con CUARENTA
-     PESOS BOLIVIANOS ($b. 40.-) de multa y la reparación del daño.
- 22. Por llevar los motociclistas o ciclistas paquetes, bultos u objetos que
-     les impidan mantener ambas manos en el manubrio o maniobrar el vehículo
-     con seguridad, con VEINTE PESOS BOLIVIANOS ($b. 20.-) de multa.
- 23. Por conducir motocicleta sin el respectivo casco de seguridad, con VEINTE
-     PESOS BOLIVIANOS ($b. 20.-) de multa.
- 24. Por conducir motocicletas con el escape libre, con VEINTE PESOS BOLIVIANOS
-     ($b. 20.-) de multa.
- 25. Por entorpecer el tránsito al salir a la circulación sin cumplir con la
-     obligación de revisar diaria y previamente los sistemas de luces,
-     dirección, frenos o sin la suficiente cantidad de combustible, aceite,
-     agua o con la batería descargada, con TREINTA PESOS BOLIVIANOS ($b.-) de
-     multa.
- 26. Por subir o bajar de un vehículo de transporte colectivo de pasajeros por
-     la puerta que no corresponda, con VEINTE PESOS BOLIVIANOS ($b. 20.-) de
-     multa.
- 27. Por negarse, sin causal justificada, el conductor de un vehículo de
-     servicio público a prestar el servicio a que está destinado su vehículo,
-     con VEINTE PESOS BOLIVIANOS ($b. 20.-) de multa.
- 28. Por no observar los peatones o pasajeros las prohibiciones de ir en las
-     pisaderas, para choques o colgados de la carrocería, con VEINTE PESOS
-     BOLIVIANOS ($b. 20.-) de multa.
- 29. Por utilizar los peatones las vías públicas como campos deportivos o
-     lugares de recreación, realizando carreras, juegos de pelota o cualquier
-     otra distracción que signifique peligro, con VEINTE PESOS BOLIVIANOS ($b.
-     20.-) de multa.
- 30. Por transportar sin autorización cargas voluminosas cuyas dimensiones
-     exceden las señaladas por el Reglamento, con TREINTA PESOS BOLIVIANOS ($b.
-     30.-) de multa.
- 31. Por transportar productos alimenticios en vehículos que no reúnan las
-     condiciones exigidas por el Reglamento, con TREINTA PESOS BOLIVIANOS ($b.
-     30.-) de multa.
- 32. Por transportar basuras, desperdicios, residuos, estiércol u otras
-     sustancias susceptibles de derrame o contaminación en vehículos no
-     adecuados, con TREINTA PESOS BOLIVIANOS ($b. 30.-) de multa.
- 33. Por realizar operaciones de cargue o descargue obstruyendo la circulación
-     y fuera de los lugares y horarios señalados por la autoridad, con TREINTA
-     PESOS BOLIVIANOS ($b. 30.-) de multa.
- 34. Por extraviar el brevet o licencia, con CINCUENTA PESOS BOLIVIANOS ($b.
-     50.-) de multa, salvo caso de Por no observar los ayudantes y cobradores
-     conducta robo denunciado ante la autoridad policial.
- 35. intachable y correcta con el público, con VEINTE PESOS BOLIVIANOS ($b.
-     20.-) de multa.
- 36. Por escoger o seleccionar a los pasajeros como condición para prestarles
-     el servicio, con TREINTA PESOS BOLIVIANOS ($b. 30.-) de multa.
- 37. Por llevar pasajeros parados en los casos prohibidos por el Reglamento,
-     con TREINTA PESOS BOLIVIANOS ($b. 30.-) de multa.
- 38. Por no sujetarse los vehículos de servicio colectivo de pasajeros a las
-     líneas de recorrido y horario establecidos por la Policía del Tránsito,
-     con TREINTA PESOS BOLIVIANOS ($b. 30.-) de multa.
- 39. Por permitir el conductor que los pasajeros viajen en las pisaderas o
-     colgados de los vehículos, con TREINTA PESOS BOLIVIANOS ($b. 30.-) de
-     multa al conductor.
- 40. Por no llevar los ómnibuses los letreros indicadores de la ruta y tarifas
-     establecidas, con VEINTE PESOS BOLIVIANOS ($b. 20.-) de multa.
- 41. Por abandonar injustificadamente el servicio público sin previa
-     autorización de la Policía del Tránsito, con CINCUENTA PESOS BOLIVIANOS
-     ($b. 50.-) de multa.
- 42. Por no detener el vehículo en los paraderos señalados por la autoridad
-     para la bajada o subida de los pasajeros, con VEINTE PESOS BOLIVIANOS ($b.
-     20.-) de multa.
- 43. Por no guardar el respeto debido y acatar las indicaciones de los
-     Inspectores de ómnibuses de transporte colectivo de pasajeros, con TREINTA
-     PESOS BOLIVIANOS ($b. 30.-) de multa.
- 44. Por ocasionar los pasajeros discusiones, reyertas o escándalos dentro del
-     vehículo, con UN DIA DE ARRESTO.
- 45. Por no llevar los ómnibuses las luces interiores de reglamento, con VEINTE
-     PESOS BOLIVIANOS ($b. 20.-) de multa.
- 46. Por colocar en los vehículos de transporte colectivo de pasajeros sillas,
-     taburetes o asientos auxiliares no autorizados con el objeto de aumentar
-     indebidamente el número de pasajeros, con CINCUENTA PESOS BOLIVIANOS ($b.
-     50.-) de multa al propietario y un día de arresto.
- 47. Por entregar el conductor su licencia o brevet en prenda, con CINCUENTA
-     PESOS BOLIVIANOS ($b. 50.-) de multa.
- 48. Por sentar denuncia falsa, con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de
-     multa.
- 49. Por circular sin limpiaparabrisas con VEINTE PESOS BOLIVIANOS ($b. 20.-
-     ) de multa.
- 50. Por arrastrar o hacer rodar bultos por las aceras o calzadas con
-     manifiesta molestia para los viandantes o conductores de vehículos, con
-     VEINTE PESOS BOLIVIANOS ($b. 20.-) de multa.
+1. Por negarse sin causal justificada a llevar pasajeros, con VEINTE PESOS
+    BOLIVIANOS ($b. 20.-) de multa.
+2. Por impedir u obstruir el tránsito sin causal justificada, con TREINTA
+    PESOS BOLIVIANOS ($b. 20.-) de multa.
+3. Por circular por una vía de tránsito suspendido, con TREINTA PESOS
+    BOLIVIANOS ($b. 30.-) de multa.
+4. Por estacionar incorrectamente en vías urbanas con VEINTE PESOS BOLIVIANOS
+    ($b. 20.-) de multa.
+5. Por circular con escape libre dentro de las ciudades, con TREINTA PESOS
+    BOLIVIANOS ($b. 30.-) de multa.
+6. Por usar sirenas, vibradores, u otros aparatos que produzcan sonido agudo,
+    múltiple y prolongado, con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de multa.
+7. Por usar la bocina en forma indebida en horas del día con VEINTE PESOS
+    BOLIVIANOS ($b. 20.-) de multa.
+8. Por colocar inscripciones o figuras que dificulten la identificación del
+    vehículo, con TREINTA PESOS BOLIVIANOS ($b. 30.-) de multa.
+9. Por usar o colocar en los vehículos inscripciones o figuras que atenten
+    contra la moral pública, con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de
+    multa.
+10. Por no marcar en el vehículo de modo visible la capacidad de carga, de
+    pasajeros y números laterales, con TREINTA PESOS BOLIVIANOS ($b. 30.-) de
+    multa.
+11. Por realizar maniobras prohibidas por el Código_de_Tránsito y su
+    Reglamento, salvo casos de emergencia, con VEINTE PESOS BOLIVIANOS ($b.
+    20.-) de multa.
+12. Por ejercer labores de auxiliar del conductor sin previo registro, con
+    VEINTE PESOS BOLIVIANOS ($b. 20.-) de multa.
+13. Por conducir vehículos sin portar la licencia brevet o autorización, con
+    VEINTE PESOS BOLIVIANOS ($b. 20.-) de multa.
+14. Por conversar o distraer el pasajero al conductor de un vehículo de
+    servicio colectivo de pasajeros que está en marcha, con VEINTE PESOS
+    BOLIVIANOS ($b. 20.-) de multa.
+15. Por negarse injustificadamente el usuario a cancelar la tarifa,
+    establecida, con VEINTE PESOS BOLIVIANOS ($b. 20.-) de multa.
+16. Por obstaculizar el tránsito vehicular circulando a una velocidad
+    demasiado lenta, con TREINTA PESOS BOLIVIANOS ($b. 30.-) de multa
+17. Por circular en las vías de doble sentido sobrepasando el eje central
+    demarcado o imaginario de la calzada, con VEINTE PESOS BOLIVIANOS ($b.
+    20.-) de multa.
+18. Por salir del carril demarcado en los lugares prohibidos sin tomar las
+    precauciones necesarias, con TREINTA PESOS BOLIVIANOS ($b. 30.-) de multa.
+19. Por cambiar de carril haciéndolo en forma imprudente y directamente hasta
+    un tercero, con TREINTA PESOS BOLIVIANOS ($b. 30.-) de multa.
+20. Por salir de un garaje o lugar de estacionamiento a la vía pública sin las
+    precauciones necesarias; con TREINTA PESOS BOLIVIANOS ($b. 30.-) de multa.
+21. Por conducir sin precaución en los lugares donde existan charcos de agua o
+    de otras sustancias ocasionando daños a las personas o cosas, con CUARENTA
+    PESOS BOLIVIANOS ($b. 40.-) de multa y la reparación del daño.
+22. Por llevar los motociclistas o ciclistas paquetes, bultos u objetos que
+    les impidan mantener ambas manos en el manubrio o maniobrar el vehículo
+    con seguridad, con VEINTE PESOS BOLIVIANOS ($b. 20.-) de multa.
+23. Por conducir motocicleta sin el respectivo casco de seguridad, con VEINTE
+    PESOS BOLIVIANOS ($b. 20.-) de multa.
+24. Por conducir motocicletas con el escape libre, con VEINTE PESOS BOLIVIANOS
+    ($b. 20.-) de multa.
+25. Por entorpecer el tránsito al salir a la circulación sin cumplir con la
+    obligación de revisar diaria y previamente los sistemas de luces,
+    dirección, frenos o sin la suficiente cantidad de combustible, aceite,
+    agua o con la batería descargada, con TREINTA PESOS BOLIVIANOS ($b.-) de
+    multa.
+26. Por subir o bajar de un vehículo de transporte colectivo de pasajeros por
+    la puerta que no corresponda, con VEINTE PESOS BOLIVIANOS ($b. 20.-) de
+    multa.
+27. Por negarse, sin causal justificada, el conductor de un vehículo de
+    servicio público a prestar el servicio a que está destinado su vehículo,
+    con VEINTE PESOS BOLIVIANOS ($b. 20.-) de multa.
+28. Por no observar los peatones o pasajeros las prohibiciones de ir en las
+    pisaderas, para choques o colgados de la carrocería, con VEINTE PESOS
+    BOLIVIANOS ($b. 20.-) de multa.
+29. Por utilizar los peatones las vías públicas como campos deportivos o
+    lugares de recreación, realizando carreras, juegos de pelota o cualquier
+    otra distracción que signifique peligro, con VEINTE PESOS BOLIVIANOS ($b.
+    20.-) de multa.
+30. Por transportar sin autorización cargas voluminosas cuyas dimensiones
+    exceden las señaladas por el Reglamento, con TREINTA PESOS BOLIVIANOS ($b.
+    30.-) de multa.
+31. Por transportar productos alimenticios en vehículos que no reúnan las
+    condiciones exigidas por el Reglamento, con TREINTA PESOS BOLIVIANOS ($b.
+    30.-) de multa.
+32. Por transportar basuras, desperdicios, residuos, estiércol u otras
+    sustancias susceptibles de derrame o contaminación en vehículos no
+    adecuados, con TREINTA PESOS BOLIVIANOS ($b. 30.-) de multa.
+33. Por realizar operaciones de cargue o descargue obstruyendo la circulación
+    y fuera de los lugares y horarios señalados por la autoridad, con TREINTA
+    PESOS BOLIVIANOS ($b. 30.-) de multa.
+34. Por extraviar el brevet o licencia, con CINCUENTA PESOS BOLIVIANOS ($b.
+    50.-) de multa, salvo caso de Por no observar los ayudantes y cobradores
+    conducta robo denunciado ante la autoridad policial.
+35. intachable y correcta con el público, con VEINTE PESOS BOLIVIANOS ($b.
+    20.-) de multa.
+36. Por escoger o seleccionar a los pasajeros como condición para prestarles
+    el servicio, con TREINTA PESOS BOLIVIANOS ($b. 30.-) de multa.
+37. Por llevar pasajeros parados en los casos prohibidos por el Reglamento,
+    con TREINTA PESOS BOLIVIANOS ($b. 30.-) de multa.
+38. Por no sujetarse los vehículos de servicio colectivo de pasajeros a las
+    líneas de recorrido y horario establecidos por la Policía del Tránsito,
+    con TREINTA PESOS BOLIVIANOS ($b. 30.-) de multa.
+39. Por permitir el conductor que los pasajeros viajen en las pisaderas o
+    colgados de los vehículos, con TREINTA PESOS BOLIVIANOS ($b. 30.-) de
+    multa al conductor.
+40. Por no llevar los ómnibuses los letreros indicadores de la ruta y tarifas
+    establecidas, con VEINTE PESOS BOLIVIANOS ($b. 20.-) de multa.
+41. Por abandonar injustificadamente el servicio público sin previa
+    autorización de la Policía del Tránsito, con CINCUENTA PESOS BOLIVIANOS
+    ($b. 50.-) de multa.
+42. Por no detener el vehículo en los paraderos señalados por la autoridad
+    para la bajada o subida de los pasajeros, con VEINTE PESOS BOLIVIANOS ($b.
+    20.-) de multa.
+43. Por no guardar el respeto debido y acatar las indicaciones de los
+    Inspectores de ómnibuses de transporte colectivo de pasajeros, con TREINTA
+    PESOS BOLIVIANOS ($b. 30.-) de multa.
+44. Por ocasionar los pasajeros discusiones, reyertas o escándalos dentro del
+    vehículo, con UN DIA DE ARRESTO.
+45. Por no llevar los ómnibuses las luces interiores de reglamento, con VEINTE
+    PESOS BOLIVIANOS ($b. 20.-) de multa.
+46. Por colocar en los vehículos de transporte colectivo de pasajeros sillas,
+    taburetes o asientos auxiliares no autorizados con el objeto de aumentar
+    indebidamente el número de pasajeros, con CINCUENTA PESOS BOLIVIANOS ($b.
+    50.-) de multa al propietario y un día de arresto.
+47. Por entregar el conductor su licencia o brevet en prenda, con CINCUENTA
+    PESOS BOLIVIANOS ($b. 50.-) de multa.
+48. Por sentar denuncia falsa, con CINCUENTA PESOS BOLIVIANOS ($b. 50.-) de
+    multa.
+49. Por circular sin limpiaparabrisas con VEINTE PESOS BOLIVIANOS ($b. 20.-
+    ) de multa.
+50. Por arrastrar o hacer rodar bultos por las aceras o calzadas con
+    manifiesta molestia para los viandantes o conductores de vehículos, con
+    VEINTE PESOS BOLIVIANOS ($b. 20.-) de multa.
 
 Artículo 383°.- (Sancion de otras infracciones)Las infracciones no señaladas en
 los artículos anteriores y que estén contemplados por el Código Nacional del
@@ -2695,7 +2588,6 @@ teniendo en cuenta la gravedad de las mismas.
 
 Capítulo II
 De las normas para la aplicación de las sanciones
-
 Artículo 384°.- (Sancion de los delitos)El juzgamiento y sanción de los delitos
 de tránsito, son de competencia de la justicia ordinaria. En estos casos, la
 Policía del Tránsito procederá al levantamiento de las Diligencias de Policía
@@ -2750,7 +2642,6 @@ contrario.
 
 Capítulo III
 De los accidentes de tránsito
-
 Artículo 394°.- (Policia judicial)Conforme al Artículo 117 del Código de
 Procedimiento Penal, el Servicio Nacional del Tránsito, ejercerá funciones de
 Policía Judicial en los accidentes ocurridos dentro de las actividades
@@ -2760,27 +2651,26 @@ de la Policía del Tránsito a fin de proceder a la investigación del hecho y
 establecer las causas y circunstancias en que se ha producido. El informe
 técnico, que deberá expedirse en el término de 48 horas como máximo,
 comprenderá básicamente los siguientes aspectos:
-
-  1. Lugar del accidente, con especificación de la clases de vías y estado de
-     las mismas.
-  2. Día y hora.
-  3. Estado del tiempo.
-  4. Análisis sobre el examen y medición de las huellas a fin de establecer la
-     dirección, frenadas y velocidad de los vehículos.
-  5. Estado y posición en que quedaron el o los vehículos.
-  6. Clase de servicios que presta el de los vehículos
-  7. Nombres, apellidos número de licencia o brevet, domicilio y otros datos
-     personales del o de los conductores y propietarios de los vehículos.
-  8. Nombres y apellidos de las personas que hubieran presenciado el accidente.
-  9. Nombres y apellidos de las personas que hubiera. resultado muertas o
-     lesionadas, acompañando él diagnóstico de la asistencia pública o los
-     certificados de reconocimiento médico legal.
- 10. Relación de los daños materiales sufridos por él o los vehículos u otros
-     bienes, con un costo aproximadamente del valor de las reparaciones.
- 11. Relación circunstanciada de como sucedió el accidente y posibles causas
- 12. Croquis.
- 13. De quien o quienes es la responsabilidad, citando los artículos del Código
-     o Reglamento que hubieran resultado infringidos.
+1. Lugar del accidente, con especificación de la clases de vías y estado de
+    las mismas.
+2. Día y hora.
+3. Estado del tiempo.
+4. Análisis sobre el examen y medición de las huellas a fin de establecer la
+    dirección, frenadas y velocidad de los vehículos.
+5. Estado y posición en que quedaron el o los vehículos.
+6. Clase de servicios que presta el de los vehículos
+7. Nombres, apellidos número de licencia o brevet, domicilio y otros datos
+    personales del o de los conductores y propietarios de los vehículos.
+8. Nombres y apellidos de las personas que hubieran presenciado el accidente.
+9. Nombres y apellidos de las personas que hubiera. resultado muertas o
+    lesionadas, acompañando él diagnóstico de la asistencia pública o los
+    certificados de reconocimiento médico legal.
+10. Relación de los daños materiales sufridos por él o los vehículos u otros
+    bienes, con un costo aproximadamente del valor de las reparaciones.
+11. Relación circunstanciada de como sucedió el accidente y posibles causas
+12. Croquis.
+13. De quien o quienes es la responsabilidad, citando los artículos del Código
+    o Reglamento que hubieran resultado infringidos.
 
 Artículo 396°.- (Obligacion de informar)Si el accidente ocurre en zona rural
 alejada de los centros urbanos, el conductor presentará el informe a que está
@@ -2798,7 +2688,6 @@ del Tránsito el correspondiente informe.
 
 Capítulo IV
 De las responsabildades
-
 Artículo 398°.- (Multa)El pago de la multa es una sanción legal por haber
 infringido una norma de tránsito y de ningún modo es parte de la reparación de
 los daños y perjuicios ocasionados en el accidente.
@@ -2829,7 +2718,6 @@ responsabilidad del conductor mientras no se pruebe lo contrario.
 
 Capítulo V
 Del embargo y secuestro
-
 Artículo 405°.- (Normas)El embargo y el secuestro de vehículos, accesorios o
 repuestos, se sujetará a las normas establecidas por el Capítulo V, Titulo V
 del Código_Nacional_del_Tránsito.
@@ -2847,7 +2735,6 @@ Juez o la autoridad o al que convengan las partes.
 
 Capítulo VI
 De la jurisdicción
-
 Artículo 408°.- (Jurisdiccion y competencia de tránsito)El Servicio Nacional de
 Tránsito, como atribución privativa. cumple la función, de dirigir, controlar y
 regular la locomoción, cumpliendo y haciendo cumplir en todo el territorio de
@@ -2898,7 +2785,6 @@ establecidas.
 
 Capítulo VII
 Del procedimiento ante el juzgado del tránsito
-
 Artículo 416°.- (Iniciacion del proceso)El proceso ante los juzgados de
 tránsito podrá iniciarse por requerimiento del Ministerio Público, denuncia o
 parte de los funcionarios del Servicio Nacional del Tránsito.
@@ -2958,7 +2844,6 @@ procedimiento establecido por este Capítulo.
 
 Capítulo VIII
 Del procedimiento ante la División de Investigaciones del Tránsito.
-
 Artículo 428°.- (Diligencias de policia judicial)Tratándose de los delitos de
 Tránsito o de accidentes graves cuyo juzgamiento corresponde a los tribunales
 ordinarios de justicia, la División de Investigaciones del Tránsito, procederá
@@ -2975,7 +2860,6 @@ recurso.
 
 Capítulo IX
 De la prescripción
-
 Artículo 430°.- (Efectos de la prescripcion)Vencidos los términos señalados por
 los artículos 184 y 185 del Código_de_Tránsito para la prescripción de la
 denuncia y la potestad de sancionar las infracciones, las denuncias demandadas
@@ -2991,11 +2875,8 @@ las normas del Código Civil.
 
 Título VII
 Disposiciones finales
-
-
 Capítulo II
 De los privilegios
-
 Artículo 433°.- (Privilegios de los niños, novidentes, ancianos)Son de
 preferente y especial aplicación los artículos 188, 189 y los del Código_de
 Tránsito relativos a los privilegios de que gozan en la circulación; protección
@@ -3016,17 +2897,15 @@ normal.
 
 Capítulo II
 Disposiciones especiales
-
 Artículo 436°.- (Escuelas de enseñanza de conduccion)Las personas, individuales
 o colectivas, interesadas en la instalación y funcionamiento de escuelas de
 enseñanza y aprendizaje para la conducción de vehículos o de institutos de
 formación técnico-profesional deberán cumplir, los siguientes requisitos
 básicos:
-
-  1. Solicitud escrita, en papel sellado, timbres de ley y firma de abogado
-     dirigida al Jefe Departamental del Tránsito.
-  2. Planes y programas de enseñanza.
-  3. Instalaciones, equipos y cuerpo docente.
+1. Solicitud escrita, en papel sellado, timbres de ley y firma de abogado
+    dirigida al Jefe Departamental del Tránsito.
+2. Planes y programas de enseñanza.
+3. Instalaciones, equipos y cuerpo docente.
 
 Artículo 437°.- (Instituto de formacion profesional)Para la instalación y
 funcionamiento de los Institutos de formación técnico profesional se requieren
