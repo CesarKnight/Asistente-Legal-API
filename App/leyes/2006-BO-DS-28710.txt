@@ -135,49 +135,49 @@ sector.
 Artículo 7°.- (Funciones y atribuciones de la Superintendencia de Transportes)
 
   i. La regulación de los Servicios de Transporte Automotor Público Terrestre y
-     Servicios de Terminal Terrestre, será realizada por la Superintendencia de
-     Trasportes, dentro del marco de las disposiciones establecidas por la Ley
-     Nº_1600 y todas las disposiciones vigentes sobre la materia. IAdemás de
-     las atribuciones generales establecidas por Ley y Reglamentos, la
-     Superintendencia de Transportes, tendrá las siguientes atribuciones de
-     forma enunciativa y no limitativa:
+Servicios de Terminal Terrestre, será realizada por la Superintendencia de
+Trasportes, dentro del marco de las disposiciones establecidas por la Ley
+Nº_1600 y todas las disposiciones vigentes sobre la materia. IAdemás de
+las atribuciones generales establecidas por Ley y Reglamentos, la
+Superintendencia de Transportes, tendrá las siguientes atribuciones de
+forma enunciativa y no limitativa:
 
-       a. Velar por la calidad y eficiencia de los Servicios de Transporte
-          Automotor Público Terrestre y los Servicios de Terminal Terrestre, en
-          beneficio de los usuarios.
-       b. Promover y defender la libre competencia en la prestación de los
-          Servicios de Transporte Automotor Público Terrestre, evitando actos
-          que impidan, restrinjan o distorsionen dicho servicio.
-       c. Asegurar que el usuario goce de protección contra prácticas abusivas
-          por parte de los Operadores.
-       d. Requerir de los Operadores de los Servicios de Transporte Automotor
-          Público Terrestre y de los de Servicios de Terminal Terrestre toda la
-          información necesaria, incluyendo estados financieros, estudios y
-          estructura de costos. Pudiendo en caso necesario instruir las
-          auditorias que se precisen.
-       e. Aprobar y publicar tarifas aplicables a los Servicios de Transporte
-          Automotor Público Terrestre y los Servicios de Terminal Terrestre, de
-          ser necesario y de acuerdo a procedimiento, fijar precios y tarifas
-          de los mismos, procurando evitar que se produzcan prácticas abusivas.
-       f. Sancionar prácticas abusivas ó monopólicas de los Operadores.
-       g. Intervenir preventivamente a los Operadores de los Servicios de
-          Transporte Automotor Público Terrestre y de los Servicios de Terminal
-          Terrestre conforme al presente Reglamento.
-       h. Definir el régimen económico en las Licitaciones Públicas de
-          Concesión de Servicios de Terminal Terrestre, de acuerdo a la Ley_Nº
-          1874 de 22 de junio de 1998 — Ley General de Concesiones de Obras
-          Públicas de Transporte, y su disposición reglamentaria.
-       i. Aprobar el contenido mínimo de los contratos de adhesión de
-          transporte de pasajeros y carga.
-       j. Requerir de los operadores, con carácter mandatario e inexcusable,
-          toda la información, datos y otros, que considere necesarios para el
-          cumplimiento de sus funciones.
-       k. Publicar estadísticas sobre las actividades del sector.
-       l. Regular los Servicios Públicos de Transporte Automotor Terrestre de
-          Pasajeros sin itinerario.
-       m. Las demás establecidas en las disposiciones legales vigentes y las
-          que sean necesarias para el adecuado cumplimiento de sus
-          responsabilidades.
+  a. Velar por la calidad y eficiencia de los Servicios de Transporte
+Automotor Público Terrestre y los Servicios de Terminal Terrestre, en
+beneficio de los usuarios.
+  b. Promover y defender la libre competencia en la prestación de los
+Servicios de Transporte Automotor Público Terrestre, evitando actos
+que impidan, restrinjan o distorsionen dicho servicio.
+  c. Asegurar que el usuario goce de protección contra prácticas abusivas
+por parte de los Operadores.
+  d. Requerir de los Operadores de los Servicios de Transporte Automotor
+Público Terrestre y de los de Servicios de Terminal Terrestre toda la
+información necesaria, incluyendo estados financieros, estudios y
+estructura de costos. Pudiendo en caso necesario instruir las
+auditorias que se precisen.
+  e. Aprobar y publicar tarifas aplicables a los Servicios de Transporte
+Automotor Público Terrestre y los Servicios de Terminal Terrestre, de
+ser necesario y de acuerdo a procedimiento, fijar precios y tarifas
+de los mismos, procurando evitar que se produzcan prácticas abusivas.
+  f. Sancionar prácticas abusivas ó monopólicas de los Operadores.
+  g. Intervenir preventivamente a los Operadores de los Servicios de
+Transporte Automotor Público Terrestre y de los Servicios de Terminal
+Terrestre conforme al presente Reglamento.
+  h. Definir el régimen económico en las Licitaciones Públicas de
+Concesión de Servicios de Terminal Terrestre, de acuerdo a la Ley_Nº
+1874 de 22 de junio de 1998 — Ley General de Concesiones de Obras
+Públicas de Transporte, y su disposición reglamentaria.
+  i. Aprobar el contenido mínimo de los contratos de adhesión de
+transporte de pasajeros y carga.
+  j. Requerir de los operadores, con carácter mandatario e inexcusable,
+toda la información, datos y otros, que considere necesarios para el
+cumplimiento de sus funciones.
+  k. Publicar estadísticas sobre las actividades del sector.
+  l. Regular los Servicios Públicos de Transporte Automotor Terrestre de
+Pasajeros sin itinerario.
+  m. Las demás establecidas en las disposiciones legales vigentes y las
+que sean necesarias para el adecuado cumplimiento de sus
+responsabilidades.
 
 
 
@@ -222,11 +222,11 @@ Regimen de tarifas
 Artículo 14°.- (Tarifa maxima de referencia)
 
   i. La Superintendencia de Transportes podrá fijar una Tarifa Máxima de
-     Referencia — TMR, que cubra todas las actividades principales y
-     colaterales, bajo una metodología previamente aprobada mediante Resolución
-     Administrativa fundamentada.
+Referencia — TMR, que cubra todas las actividades principales y
+colaterales, bajo una metodología previamente aprobada mediante Resolución
+Administrativa fundamentada.
  ii. Los montos por debajo de la Tarifa Máxima de Referencia se encuentran
-     sujetos a la libre oferta y demanda.
+sujetos a la libre oferta y demanda.
 
 Artículo 15°.- (Tarifas de servicios de terminales)Las Tarifas que cobren los
 Operadores de los Servicios de Terminal Terrestre estarán definidas
@@ -249,10 +249,10 @@ previo cumplimiento de requisitos, condiciones técnicas y de seguridad.
 Artículo 18°.- (Derechos de los operadores)Son derechos de los Operadores:
 
   a. Derecho a la prestación de los Servicios de Transporte Automotor Público
-     Terrestre, de conformidad a lo establecido en la correspondiente
-     Autorización.
+Terrestre, de conformidad a lo establecido en la correspondiente
+Autorización.
   b. Derecho al cobro de Tarifas a los Usuarios, de conformidad a lo
-     establecido por la Superintendencia de Transportes.
+establecido por la Superintendencia de Transportes.
   c. Otros derechos específicamente estipulados en las Autorizaciones.
 
 Artículo 19°.- (Obligaciones del operador)Todo Operador de los Servicios de
@@ -260,18 +260,18 @@ Transporte Automotor Público Terrestre y servicio de Terminal Terrestre tiene
 las siguientes obligaciones:
 
   a. Cumplir con las disposiciones vigentes y con las Resoluciones
-     Administrativas.
+Administrativas.
   b. Garantizar la calidad, seguridad y continuidad de los Servicios de
-     Transporte Automotor Público Terrestre y Servicios de Terminal Terrestre.
+Transporte Automotor Público Terrestre y Servicios de Terminal Terrestre.
   c. Presentar la información técnica y económica a la Superintendencia de
-     Transportes y a otras autoridades competentes, en los plazos que se fijen
-     al efecto.
+Transportes y a otras autoridades competentes, en los plazos que se fijen
+al efecto.
   d. Cumplir con las normas técnicas de seguridad establecidas en los procesos
-     de revisión técnica automotriz.
+de revisión técnica automotriz.
   e. Respetar los derechos de los Operadores de los Servicios de Terminal
-     Terrestre.
+Terrestre.
   f. Prestar los servicios a los Usuarios de manera general, igualitaria y sin
-     discriminaciones arbitrarias.
+discriminaciones arbitrarias.
 
 Artículo 20°.- (Documento de autorizacion)El documento que acredita la
 autorización otorgada de Transportes debe ser expuesto visiblemente en el
@@ -293,14 +293,14 @@ revocará la Autorización en los siguientes casos:
 
   a. Cuando el operador incumpla reiteradamente con sus obligaciones.
   b. Cuando el operador transfiera, ceda, arriende, subrogue o realice
-     cualquier acto de disposición sobre los derechos de prestación del
-     servicio y sobre la Autorización.
+cualquier acto de disposición sobre los derechos de prestación del
+servicio y sobre la Autorización.
   c. Cuando el operador, incumpla reiteradamente resoluciones e instrucciones
-     de la autoridad competente y disposiciones señaladas por ésta.
+de la autoridad competente y disposiciones señaladas por ésta.
   d. Cuando incumpla con las resoluciones sancionatorias.
   e. Cuando se ejecutorié la sentencia declarativa de quiebra del operador.
   f. Cuando concurra cualquier otra causal de revocatoria especificada en la
-     Autorización.
+Autorización.
 
 Artículo 24°.- (Alcances de la revocatoria)Ejecutoriada la revocatoria de la
 Autorización, se extinguirán todos los derechos del operador.
@@ -365,43 +365,43 @@ Artículo 37°.- (Tasa de regulacion)Se establecen las siguientes tasas de
 regulación:
 
   a. Transporte Automotor Urbano e Interprovincial: Deberán pagar anualmente y
-     por adelantado a la Superintendencia de Transportes, hasta el 30 de enero
-     de cada gestión y por cada uno de los vehículos, una tasa de regulación
-     equivalente en moneda nacional al valor resultante de aplicar la siguiente
-     fórmula:
-      TR=TF+TV \times TMR \times A
-     Donde:
+por adelantado a la Superintendencia de Transportes, hasta el 30 de enero
+de cada gestión y por cada uno de los vehículos, una tasa de regulación
+equivalente en moneda nacional al valor resultante de aplicar la siguiente
+fórmula:
+ TR=TF+TV \times TMR \times A
+Donde:
 
-     TR:  Tasa de Regulación
-          Factor Fijo para:
-     TF:  TAU = 0
-          TI = 50
-          Factor variable para:
-     TV:  TAU = 1.6
-          TI = 0.2
-     TMR: La Tarifa Máxima de Referencia aprobada por la Superintendencia o en
-          su defecto la máxima cobrada por el operador.
-     A:   número de asientos con el que cuenta el vehículo.
+TR:  Tasa de Regulación
+Factor Fijo para:
+TF:  TAU = 0
+TI = 50
+Factor variable para:
+TV:  TAU = 1.6
+TI = 0.2
+TMR: La Tarifa Máxima de Referencia aprobada por la Superintendencia o en
+su defecto la máxima cobrada por el operador.
+A:   número de asientos con el que cuenta el vehículo.
 
 
-     En el caso que el operador demuestre sus ingresos mediante estados
-     financieros auditados se aplicará lo señalado en el inciso correspondiente
-     para el Transporte Interdepartamental e Internacional.
+En el caso que el operador demuestre sus ingresos mediante estados
+financieros auditados se aplicará lo señalado en el inciso correspondiente
+para el Transporte Interdepartamental e Internacional.
   b. Transporte Interdepartamental e Internacional: Pagarán por adelantado a la
-     Superintendencia de Transportes semestralmente, hasta el día 30 de enero o
-     30 de julio de cada gestión, según corresponda, una tasa de regulación
-     igual al 0.5% de sus ingresos brutos, previstos para la gestión. La Tasa
-     de Regulación se hará efectiva en base a los ingresos de la gestión
-     anterior. El monto total pagado será conciliado con el resultado de los
-     estados financieros auditados del Operador.
+Superintendencia de Transportes semestralmente, hasta el día 30 de enero o
+30 de julio de cada gestión, según corresponda, una tasa de regulación
+igual al 0.5% de sus ingresos brutos, previstos para la gestión. La Tasa
+de Regulación se hará efectiva en base a los ingresos de la gestión
+anterior. El monto total pagado será conciliado con el resultado de los
+estados financieros auditados del Operador.
   c. Servicios de Terminal Terrestre: Pagarán a la Superintendencia de
-     Transportes anualmente, hasta el día 30 de enero de cada gestión, una tasa
-     de regulación igual al 0.8% de sus ingresos brutos, salvo que estas
-     terminales hayan sido concesionadas bajo la Ley_Nº_1874, correspondiendo
-     que paguen el 0.35% de sus ingresos brutos. La Tasa de Regulación se hará
-     efectiva en base a los ingresos de la gestión anterior. El monto del pago
-     anual será conciliado con el resultado de los estados financieros
-     auditados del Operador.
+Transportes anualmente, hasta el día 30 de enero de cada gestión, una tasa
+de regulación igual al 0.8% de sus ingresos brutos, salvo que estas
+terminales hayan sido concesionadas bajo la Ley_Nº_1874, correspondiendo
+que paguen el 0.35% de sus ingresos brutos. La Tasa de Regulación se hará
+efectiva en base a los ingresos de la gestión anterior. El monto del pago
+anual será conciliado con el resultado de los estados financieros
+auditados del Operador.
 
 Artículo 38°.- (Consulta y coordinacion)Todos los actos que realice la
 Superintendencia de Transporte previstos en el presente Decreto Supremo,
@@ -413,22 +413,22 @@ Disposiciones finales y transitorias
 Artículo 39°.- (Adecuacion)
 
   i. Hasta el 31 de diciembre de 2006, los operadores que prestan Servicios de
-     Transporte Automotor Público Terrestre y Servicios de Terminal Terrestre,
-     cuyos permisos o autorizaciones, de cualquier especie se encuentren
-     vigentes y hayan sido otorgadas conforme a Ley, deberán recabar una nueva
-     Autorización de la Superintendencia de Transportes.
+Transporte Automotor Público Terrestre y Servicios de Terminal Terrestre,
+cuyos permisos o autorizaciones, de cualquier especie se encuentren
+vigentes y hayan sido otorgadas conforme a Ley, deberán recabar una nueva
+Autorización de la Superintendencia de Transportes.
  ii. A partir de la publicación del presente Reglamento, los nuevos operadores
-     de Servicios de Transporte Automotor Público Terrestre y Servicios de
-     Terminal Terrestre, deberán tramitar sus títulos habilitantes únicamente
-     ante la Superintendencia de Transportes.
+de Servicios de Transporte Automotor Público Terrestre y Servicios de
+Terminal Terrestre, deberán tramitar sus títulos habilitantes únicamente
+ante la Superintendencia de Transportes.
 
 Artículo 40°.- (Vigencia de normas)
 
   i. Se abroga el Decreto_Supremo_Nº_25461 de 23 de julio de 1999; por tanto,
-     el Servicio de Transporte Público Automotor Urbano queda sujeto a lo
-     dispuesto por el presente Decreto Supremo.
+el Servicio de Transporte Público Automotor Urbano queda sujeto a lo
+dispuesto por el presente Decreto Supremo.
  ii. Se abrogan y derogan todas las disposiciones contrarias al presente
-     Decreto Supremo.
+Decreto Supremo.
 
 -------------------------------------------------------------------------------
 El Señor Ministro de Estado en el Despacho de Obras Públicas, Servicios y
@@ -449,23 +449,23 @@ Santiago Alex Gálvez, Félix Patzi Paco, Nila Heredia Miranda.
 Ficha Técnica (DCMI)
 
 
-Norma        Bolivia: Reglamento de actividades de los subsectores del transporte, DS
-             Nº 28710, 11 de mayo de 2006
-Fecha        2023-   Formato  Text Tipo   DS
-             03-05
-Dominio      Bolivia Derechos GFDL Idioma es
-Sumario      REGLAMENTO DE ACTIVIDADES DE LOS SUBSECTORES DEL TRANSPORTE.
-Keywords     Gaceta 2888, 2006-05-15, Decreto Supremo, mayo/2006
-Origen       http://www.gacetaoficialdebolivia.gob.bo/normas/verGratis/26215
+Norma   Bolivia: Reglamento de actividades de los subsectores del transporte, DS
+   Nº 28710, 11 de mayo de 2006
+Fecha   2023-   Formato  Text Tipo   DS
+   03-05
+Dominio Bolivia Derechos GFDL Idioma es
+Sumario REGLAMENTO DE ACTIVIDADES DE LOS SUBSECTORES DEL TRANSPORTE.
+KeywordsGaceta 2888, 2006-05-15, Decreto Supremo, mayo/2006
+Origen  http://www.gacetaoficialdebolivia.gob.bo/normas/verGratis/26215
 Referencias  2000a.lexml
-             FDO. ALVARO M. GARCIA LINERA PRESIDENTE INTERINO DE LA REPUBLICA, Juan
-             Ramón Quintana Taborga, Alicia Muñoz Alá Ministra de Gobierno e Interina
-             de Relaciones Exteriores y Cultos, Walker San Miguel Rodríguez, Casimira
-Creador      Rodríguez Romero, Carlos Villegas Quiroga, Luís Alberto Arce Catacora,
-             Celinda Sosa Lunda Ministra de Producción y Microempresa e Interina del
-             Agua, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Andrés Solíz Rada,
-             Walter Villarroel Morochi, Santiago Alex Gálvez, Félix Patzi Paco, Nila
-             Heredia Miranda.
+   FDO. ALVARO M. GARCIA LINERA PRESIDENTE INTERINO DE LA REPUBLICA, Juan
+   Ramón Quintana Taborga, Alicia Muñoz Alá Ministra de Gobierno e Interina
+   de Relaciones Exteriores y Cultos, Walker San Miguel Rodríguez, Casimira
+Creador Rodríguez Romero, Carlos Villegas Quiroga, Luís Alberto Arce Catacora,
+   Celinda Sosa Lunda Ministra de Producción y Microempresa e Interina del
+   Agua, Salvador Ric Riera, Hugo Salvatierra Gutiérrez, Andrés Solíz Rada,
+   Walter Villarroel Morochi, Santiago Alex Gálvez, Félix Patzi Paco, Nila
+   Heredia Miranda.
 Contribuidor DeveNet.net
 Publicador   DeveNet.net
 
@@ -480,9 +480,9 @@ Abroga a
 
 
   [BO-DS-25461] Bolivia:_Decreto_Supremo_Nº_25461,_23_de_julio_de_1999
-      La regulación de los Servicios de Transporte Público Automotor Urbano
-      será realizada por la Superintendencia de Trasnportes dentro del marco de
-      las disposiciones establecidas por la Ley 1600 (SIRESE) .
+ La regulación de los Servicios de Transporte Público Automotor Urbano
+ será realizada por la Superintendencia de Trasnportes dentro del marco de
+ las disposiciones establecidas por la Ley 1600 (SIRESE) .
 
 
 Véase también
@@ -491,33 +491,33 @@ Véase también
 
   [BO-L-1600] Bolivia:_Ley_del_sistema_de_regulación_sectorial_(SIRESE),_28_de
   octubre_de_1994
-      Ley del sistema de regulación sectorial (SIRESE)
+ Ley del sistema de regulación sectorial (SIRESE)
 
   [BO-DS-24178] Bolivia:_Decreto_Supremo_Nº_24178,_8_de_diciembre_de_1995
-      Dispónese el establecimiento de la Superintendencia de Transportes,
-      prevista en los artículos 1ro. y 2do. de la Ley SIRESE.
+ Dispónese el establecimiento de la Superintendencia de Transportes,
+ prevista en los artículos 1ro. y 2do. de la Ley SIRESE.
 
   [BO-DS-24753] Bolivia:_Decreto_Supremo_Nº_24753,_31_de_julio_de_1997
-      Modifícanse los artículos 1 y 2 del Decreto Supremo 24178 de 8 /12/ 1995.
+ Modifícanse los artículos 1 y 2 del Decreto Supremo 24178 de 8 /12/ 1995.
 
   [BO-L-1874] Bolivia:_Ley_de_Concesiones_de_obras_públicas_de_transporte,_22
   de_junio_de_1998
-      Ley General de Concesiones de Obras Públicas de Transporte
+ Ley General de Concesiones de Obras Públicas de Transporte
 
   [BO-DS-25461] Bolivia:_Decreto_Supremo_Nº_25461,_23_de_julio_de_1999
-      La regulación de los Servicios de Transporte Público Automotor Urbano
-      será realizada por la Superintendencia de Trasnportes dentro del marco de
-      las disposiciones establecidas por la Ley 1600 (SIRESE) .
+ La regulación de los Servicios de Transporte Público Automotor Urbano
+ será realizada por la Superintendencia de Trasnportes dentro del marco de
+ las disposiciones establecidas por la Ley 1600 (SIRESE) .
 
   [BO-DS-27172] Bolivia:_Reglamento_de_la_Ley_Nº_2341_de_23_/04/_2002,_de
   Procedimiento_Administrativo,_para_el_Sistema_de_Regulación_Sectorial_SIRESE,
   DS_Nº_27172,_15_de_septiembre_de_2003
-      Reglamentar la Ley Nº 2341 de 23 /04/ 2002, de Procedimiento
-      Administrativo, para el Sistema de Regulación Sectorial SIRESE.
+ Reglamentar la Ley Nº 2341 de 23 /04/ 2002, de Procedimiento
+ Administrativo, para el Sistema de Regulación Sectorial SIRESE.
 
   [BO-L-3351] Bolivia:_Ley_de_Organización_del_Poder_Ejecutivo_(LOPE),_10_de
   febrero_de_2006
-      Ley de Organización del Poder Ejecutivo. Publicada en Gaceta N° 2863
+ Ley de Organización del Poder Ejecutivo. Publicada en Gaceta N° 2863
 
 
 Referencias a esta norma
@@ -525,32 +525,32 @@ Referencias a esta norma
 
 
   [BO-DS-28876] Bolivia:_Decreto_Supremo_Nº_28876,_4_de_octubre_de_2006
-      Modificar el Decreto Supremo Nº 28710 de 11 /05/ 2006, que reglamenta las
-      actividades de los subsectores de transportes.
+ Modificar el Decreto Supremo Nº 28710 de 11 /05/ 2006, que reglamenta las
+ actividades de los subsectores de transportes.
 
   [BO-DS-28971] Bolivia:_Decreto_Supremo_Nº_28971,_15_de_diciembre_de_2006
-      Autorizar a la Superintendencia de Transportes, instruya al Interventor
-      de la Terminal Bi - Modal “Cástulo Chávez” de la ciudad de Santa Cruz de
-      la Sierra, a realizar un “Depósito Irregular”, de conformidad al Artículo
-      862 del Código Civil, a favor de la Empresa Nacional de Ferrocarriles -
-      ENFE, por un monto de Bs1.974.367.40
+ Autorizar a la Superintendencia de Transportes, instruya al Interventor
+ de la Terminal Bi - Modal “Cástulo Chávez” de la ciudad de Santa Cruz de
+ la Sierra, a realizar un “Depósito Irregular”, de conformidad al Artículo
+ 862 del Código Civil, a favor de la Empresa Nacional de Ferrocarriles -
+ ENFE, por un monto de Bs1.974.367.40
 
   [BO-DS-N246] Bolivia:_Decreto_Supremo_Nº_246,_12_de_agosto_de_2009
-      Modifica el Decreto Supremo N° 28710, de 11 de mayo de 2006, que
-      reglamenta las actividades de los Subsectores del Transporte, modificado
-      por el Decreto Supremo N° 28876, de 4 de octubre de 2006.
+ Modifica el Decreto Supremo N° 28710, de 11 de mayo de 2006, que
+ reglamenta las actividades de los Subsectores del Transporte, modificado
+ por el Decreto Supremo N° 28876, de 4 de octubre de 2006.
 
   [BO-DS-N420] Bolivia:_Decreto_Supremo_Nº_420,_3_de_febrero_de_2010
-      Aprueba mecanismos de control, fiscalización y seguridad vial, en el
-      sector de transporte automotor público terrestre de pasajeros, para
-      disminuir el riesgo de accidentes de tránsito en las carreteras y caminos
-      del Estado Plurinacional de Bolivia, estableciendo las infracciones y
-      sanciones ante el incumplimiento de los mismos.
+ Aprueba mecanismos de control, fiscalización y seguridad vial, en el
+ sector de transporte automotor público terrestre de pasajeros, para
+ disminuir el riesgo de accidentes de tránsito en las carreteras y caminos
+ del Estado Plurinacional de Bolivia, estableciendo las infracciones y
+ sanciones ante el incumplimiento de los mismos.
 
   [BO-DS-N659] Bolivia:_Decreto_Supremo_Nº_659,_6_de_octubre_de_2010
-      Reglamenta los mecanismos de control, fiscalización y seguridad vial en
-      el sector de transporte automotor público terrestre de pasajeros,
-      establecidos en el Decreto Supremo Nº 0420, de 3 de febrero de 2010.
+ Reglamenta los mecanismos de control, fiscalización y seguridad vial en
+ el sector de transporte automotor público terrestre de pasajeros,
+ establecidos en el Decreto Supremo Nº 0420, de 3 de febrero de 2010.
 
 -------------------------------------------------------------------------------
 
